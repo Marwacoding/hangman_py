@@ -1,0 +1,2435 @@
+2021-01-15 14:22:50,305 - root -INFO - This an info message
+2021-01-15 14:22:50,305 - root -ERROR - this action is an error
+2021-01-15 14:22:50,305 - root -INFO - Reading file : start
+2021-01-15 14:24:10,090 - root -INFO - This an info message
+2021-01-15 14:24:10,090 - root -ERROR - this action is an error
+2021-01-15 14:24:10,090 - root -INFO - Reading file : start
+2021-01-15 14:24:10,117 - root -INFO - reading file : end
+2021-01-15 14:25:08,587 - root -INFO - This an info message
+2021-01-15 14:25:08,587 - root -ERROR - this action is an error
+2021-01-15 14:25:08,587 - root -INFO - Reading file : start
+2021-01-15 14:25:08,618 - root -INFO - reading file : end
+2021-01-15 14:29:09,462 - root -INFO - This an info message
+2021-01-15 14:29:09,462 - root -ERROR - this action is an error
+2021-01-15 14:29:09,462 - root -INFO - Reading file : start
+2021-01-15 14:29:09,488 - root -INFO - reading file : end
+2021-01-15 14:29:09,489 - root -INFO - Choosing random word : start
+2021-01-15 14:29:09,489 - root -INFO - Choosing random word : start
+2021-01-15 14:29:29,786 - root -INFO - This an info message
+2021-01-15 14:29:29,787 - root -ERROR - this action is an error
+2021-01-15 14:29:29,787 - root -INFO - Reading file : start
+2021-01-15 14:29:29,811 - root -INFO - reading file : end
+2021-01-15 14:29:29,811 - root -INFO - Choosing random word : start
+2021-01-15 14:29:29,811 - root -INFO - Choosing random word : start
+2021-01-15 14:37:40,183 - root -INFO - This an info message
+2021-01-15 14:37:40,183 - root -ERROR - this action is an error
+2021-01-15 14:37:40,183 - root -INFO - Reading file : start
+2021-01-15 14:37:40,185 - root -INFO - reading file : end
+2021-01-15 14:37:40,185 - root -INFO - Choosing random word : start
+2021-01-15 14:37:40,761 - root -INFO - Choosing random word : start
+2021-01-15 14:40:02,414 - root -INFO - This an info message
+2021-01-15 14:40:02,414 - root -ERROR - this action is an error
+2021-01-15 14:40:02,415 - root -INFO - Reading file : start
+2021-01-15 14:42:03,017 - root -INFO - This an info message
+2021-01-15 14:42:03,017 - root -ERROR - this action is an error
+2021-01-15 14:42:03,017 - root -INFO - Reading file : start
+2021-01-15 14:42:03,019 - root -INFO - reading file : end
+2021-01-15 14:42:29,942 - root -INFO - This an info message
+2021-01-15 14:42:29,943 - root -ERROR - this action is an error
+2021-01-15 14:42:29,943 - root -INFO - Reading file : start
+2021-01-15 14:42:29,944 - root -INFO - reading file : end
+2021-01-15 14:42:29,944 - root -INFO - Choosing random word : start
+2021-01-15 14:42:30,520 - root -INFO - Choosing random word : start
+2021-01-15 14:43:32,707 - root -INFO - This an info message
+2021-01-15 14:43:32,707 - root -ERROR - this action is an error
+2021-01-15 14:43:42,309 - root -INFO - This an info message
+2021-01-15 14:43:42,309 - root -ERROR - this action is an error
+2021-01-15 14:43:55,031 - root -INFO - This an info message
+2021-01-15 14:43:55,031 - root -ERROR - this action is an error
+2021-01-15 14:44:34,009 - root -INFO - This an info message
+2021-01-15 14:44:34,009 - root -ERROR - this action is an error
+2021-01-15 14:45:58,560 - root -INFO - This an info message
+2021-01-15 14:45:58,560 - root -ERROR - this action is an error
+2021-01-15 14:46:21,721 - root -INFO - This an info message
+2021-01-15 14:46:21,721 - root -ERROR - this action is an error
+2021-01-15 14:51:07,010 - root -INFO - This an info message
+2021-01-15 14:51:07,010 - root -ERROR - this action is an error
+2021-01-15 14:51:07,010 - root -INFO - Reading file : start
+2021-01-15 14:51:07,036 - root -INFO - reading file : end
+2021-01-15 14:51:07,037 - root -INFO - Choosing random word : start
+2021-01-15 14:51:07,037 - root -INFO - Choosing random word : start
+2021-01-15 14:53:19,677 - root -INFO - This an info message
+2021-01-15 14:53:19,677 - root -ERROR - this action is an error
+2021-01-15 14:53:19,677 - root -INFO - Reading file : start
+2021-01-15 14:53:19,710 - root -INFO - reading file : end
+2021-01-15 14:53:19,710 - root -INFO - Choosing random word : start
+2021-01-15 14:53:19,710 - root -INFO - Choosing random word : start
+2021-01-15 14:53:37,057 - root -INFO - This an info message
+2021-01-15 14:53:37,057 - root -ERROR - this action is an error
+2021-01-15 14:53:37,057 - root -INFO - Reading file : start
+2021-01-15 14:53:37,082 - root -INFO - reading file : end
+2021-01-15 14:53:37,082 - root -INFO - Choosing random word : start
+2021-01-15 14:53:37,082 - root -INFO - Choosing random word : start
+2021-01-15 14:53:48,191 - root -INFO - This an info message
+2021-01-15 14:53:48,191 - root -ERROR - this action is an error
+2021-01-15 14:53:48,191 - root -INFO - Reading file : start
+2021-01-15 14:53:48,218 - root -INFO - reading file : end
+2021-01-15 14:53:48,218 - root -INFO - Choosing random word : start
+2021-01-15 14:53:48,218 - root -INFO - Choosing random word : start
+2021-01-15 14:55:50,759 - root -INFO - This an info message
+2021-01-15 14:55:50,759 - root -ERROR - this action is an error
+2021-01-15 14:55:50,759 - root -INFO - Reading file : start
+2021-01-15 14:55:50,786 - root -INFO - reading file : end
+2021-01-15 14:55:50,787 - root -INFO - Choosing random word : start
+2021-01-15 14:55:50,787 - root -INFO - Choosing random word : start
+2021-01-15 14:56:02,288 - root -INFO - This an info message
+2021-01-15 14:56:02,288 - root -ERROR - this action is an error
+2021-01-15 14:56:02,288 - root -INFO - Reading file : start
+2021-01-15 14:56:02,312 - root -INFO - reading file : end
+2021-01-15 14:56:02,312 - root -INFO - Choosing random word : start
+2021-01-15 14:56:02,312 - root -INFO - Choosing random word : start
+2021-01-15 14:56:23,610 - root -INFO - This an info message
+2021-01-15 14:56:23,610 - root -ERROR - this action is an error
+2021-01-15 14:56:23,610 - root -INFO - Reading file : start
+2021-01-15 14:56:23,637 - root -INFO - reading file : end
+2021-01-15 14:56:23,637 - root -INFO - Choosing random word : start
+2021-01-15 14:56:23,637 - root -INFO - Choosing random word : start
+2021-01-15 14:57:06,244 - root -INFO - This an info message
+2021-01-15 14:57:06,244 - root -ERROR - this action is an error
+2021-01-15 14:57:06,244 - root -INFO - Reading file : start
+2021-01-15 14:57:06,269 - root -INFO - reading file : end
+2021-01-15 14:57:06,269 - root -INFO - Choosing random word : start
+2021-01-15 14:57:06,269 - root -INFO - Choosing random word : start
+2021-01-15 14:57:16,019 - root -INFO - This an info message
+2021-01-15 14:57:16,019 - root -ERROR - this action is an error
+2021-01-15 14:57:16,019 - root -INFO - Reading file : start
+2021-01-15 14:57:16,044 - root -INFO - reading file : end
+2021-01-15 14:57:16,044 - root -INFO - Choosing random word : start
+2021-01-15 14:57:16,045 - root -INFO - Choosing random word : start
+2021-01-15 14:58:05,063 - root -INFO - This an info message
+2021-01-15 14:58:05,063 - root -ERROR - this action is an error
+2021-01-15 14:58:05,063 - root -INFO - Reading file : start
+2021-01-15 14:58:05,090 - root -INFO - reading file : end
+2021-01-15 14:58:05,090 - root -INFO - Choosing random word : start
+2021-01-15 14:58:05,090 - root -INFO - Choosing random word : start
+2021-01-15 14:59:55,994 - root -INFO - This an info message
+2021-01-15 14:59:55,994 - root -ERROR - this action is an error
+2021-01-15 14:59:55,994 - root -INFO - Reading file : start
+2021-01-15 14:59:56,018 - root -INFO - reading file : end
+2021-01-15 14:59:56,018 - root -INFO - Choosing random word : start
+2021-01-15 14:59:56,018 - root -INFO - Choosing random word : start
+2021-01-15 15:06:30,793 - root -INFO - This an info message
+2021-01-15 15:06:30,793 - root -ERROR - this action is an error
+2021-01-15 15:06:30,793 - root -INFO - Reading file : start
+2021-01-15 15:06:30,817 - root -INFO - reading file : end
+2021-01-15 15:06:30,817 - root -INFO - Choosing random word : start
+2021-01-15 15:06:30,817 - root -INFO - Choosing random word : end
+2021-01-15 15:08:07,693 - root -INFO - This an info message
+2021-01-15 15:08:07,693 - root -ERROR - this action is an error
+2021-01-15 15:08:07,693 - root -INFO - Reading file : start
+2021-01-15 15:08:07,723 - root -INFO - reading file : end
+2021-01-15 15:08:07,723 - root -INFO - Choosing random word : start
+2021-01-15 15:08:07,723 - root -INFO - Choosing random word : end
+2021-01-15 15:08:17,501 - root -INFO - This an info message
+2021-01-15 15:08:17,501 - root -ERROR - this action is an error
+2021-01-15 15:08:17,501 - root -INFO - Reading file : start
+2021-01-15 15:08:17,527 - root -INFO - reading file : end
+2021-01-15 15:08:17,527 - root -INFO - Choosing random word : start
+2021-01-15 15:08:17,528 - root -INFO - Choosing random word : end
+2021-01-15 15:09:37,249 - root -INFO - This an info message
+2021-01-15 15:09:37,249 - root -ERROR - this action is an error
+2021-01-15 15:09:37,249 - root -INFO - Reading file : start
+2021-01-15 15:09:37,272 - root -INFO - reading file : end
+2021-01-15 15:09:37,273 - root -INFO - Choosing random word : start
+2021-01-15 15:09:37,273 - root -INFO - Choosing random word : end
+2021-01-15 15:09:48,820 - root -INFO - This an info message
+2021-01-15 15:09:48,820 - root -ERROR - this action is an error
+2021-01-15 15:09:48,820 - root -INFO - Reading file : start
+2021-01-15 15:09:48,846 - root -INFO - reading file : end
+2021-01-15 15:09:48,846 - root -INFO - Choosing random word : start
+2021-01-15 15:09:48,846 - root -INFO - Choosing random word : end
+2021-01-15 15:14:01,459 - root -INFO - This an info message
+2021-01-15 15:14:01,459 - root -ERROR - this action is an error
+2021-01-15 15:14:01,460 - root -INFO - Reading file : start
+2021-01-15 15:14:01,484 - root -INFO - reading file : end
+2021-01-15 15:14:01,484 - root -INFO - Choosing random word : start
+2021-01-15 15:14:01,484 - root -INFO - Choosing random word : end
+2021-01-15 15:22:28,847 - root -INFO - This an info message
+2021-01-15 15:22:28,848 - root -ERROR - this action is an error
+2021-01-15 15:22:28,848 - root -INFO - Reading file : start
+2021-01-15 15:22:28,871 - root -INFO - reading file : end
+2021-01-15 15:22:28,872 - root -INFO - Choosing random word : start
+2021-01-15 15:22:28,872 - root -INFO - Choosing random word : end
+2021-01-15 15:23:23,349 - root -INFO - This an info message
+2021-01-15 15:23:23,349 - root -ERROR - this action is an error
+2021-01-15 15:23:23,349 - root -INFO - Reading file : start
+2021-01-15 15:23:23,372 - root -INFO - reading file : end
+2021-01-15 15:23:23,373 - root -INFO - Choosing random word : start
+2021-01-15 15:23:23,373 - root -INFO - Choosing random word : end
+2021-01-15 15:24:54,453 - root -INFO - This an info message
+2021-01-15 15:24:54,453 - root -ERROR - this action is an error
+2021-01-15 15:24:54,453 - root -INFO - Reading file : start
+2021-01-15 15:24:54,480 - root -INFO - reading file : end
+2021-01-15 15:24:54,480 - root -INFO - Choosing random word : start
+2021-01-15 15:24:54,480 - root -INFO - Choosing random word : end
+2021-01-15 15:28:17,806 - root -INFO - This an info message
+2021-01-15 15:28:17,807 - root -ERROR - this action is an error
+2021-01-15 15:28:17,807 - root -INFO - Reading file : start
+2021-01-15 15:28:17,833 - root -INFO - reading file : end
+2021-01-15 15:28:17,833 - root -INFO - Choosing random word : start
+2021-01-15 15:28:17,834 - root -INFO - Choosing random word : end
+2021-01-15 15:28:28,154 - root -INFO - This an info message
+2021-01-15 15:28:28,154 - root -ERROR - this action is an error
+2021-01-15 15:28:28,154 - root -INFO - Reading file : start
+2021-01-15 15:28:28,179 - root -INFO - reading file : end
+2021-01-15 15:28:28,179 - root -INFO - Choosing random word : start
+2021-01-15 15:28:28,179 - root -INFO - Choosing random word : end
+2021-01-15 15:28:47,320 - root -INFO - This an info message
+2021-01-15 15:28:47,320 - root -ERROR - this action is an error
+2021-01-15 15:28:47,320 - root -INFO - Reading file : start
+2021-01-15 15:28:47,345 - root -INFO - reading file : end
+2021-01-15 15:28:47,345 - root -INFO - Choosing random word : start
+2021-01-15 15:28:47,345 - root -INFO - Choosing random word : end
+2021-01-15 15:32:38,296 - root -INFO - This an info message
+2021-01-15 15:32:38,296 - root -ERROR - this action is an error
+2021-01-15 15:32:38,296 - root -INFO - Reading file : start
+2021-01-15 15:32:38,322 - root -INFO - reading file : end
+2021-01-15 15:32:38,322 - root -INFO - Choosing random word : start
+2021-01-15 15:32:38,322 - root -INFO - Choosing random word : end
+2021-01-15 15:37:52,254 - root -INFO - This an info message
+2021-01-15 15:37:52,255 - root -ERROR - this action is an error
+2021-01-15 15:37:52,255 - root -INFO - Reading file : start
+2021-01-15 15:37:52,281 - root -INFO - reading file : end
+2021-01-15 15:37:52,281 - root -INFO - Choosing random word : start
+2021-01-15 15:37:52,281 - root -INFO - Choosing random word : end
+2021-01-15 15:38:04,624 - root -INFO - This an info message
+2021-01-15 15:38:04,624 - root -ERROR - this action is an error
+2021-01-15 15:38:04,624 - root -INFO - Reading file : start
+2021-01-15 15:38:04,649 - root -INFO - reading file : end
+2021-01-15 15:38:04,649 - root -INFO - Choosing random word : start
+2021-01-15 15:38:04,649 - root -INFO - Choosing random word : end
+2021-01-15 15:38:15,140 - root -INFO - This an info message
+2021-01-15 15:38:15,140 - root -ERROR - this action is an error
+2021-01-15 15:38:15,140 - root -INFO - Reading file : start
+2021-01-15 15:38:15,165 - root -INFO - reading file : end
+2021-01-15 15:38:15,165 - root -INFO - Choosing random word : start
+2021-01-15 15:38:15,165 - root -INFO - Choosing random word : end
+2021-01-15 15:46:10,659 - root -INFO - This an info message
+2021-01-15 15:46:10,660 - root -ERROR - this action is an error
+2021-01-15 15:46:10,660 - root -INFO - Reading file : start
+2021-01-15 15:46:10,685 - root -INFO - reading file : end
+2021-01-15 15:46:10,685 - root -INFO - Choosing random word : start
+2021-01-15 15:46:10,685 - root -INFO - Choosing random word : end
+2021-01-15 15:46:34,615 - root -INFO - This an info message
+2021-01-15 15:46:34,615 - root -ERROR - this action is an error
+2021-01-15 15:46:34,615 - root -INFO - Reading file : start
+2021-01-15 15:46:34,645 - root -INFO - reading file : end
+2021-01-15 15:46:34,645 - root -INFO - Choosing random word : start
+2021-01-15 15:46:34,645 - root -INFO - Choosing random word : end
+2021-01-15 15:46:47,734 - root -INFO - This an info message
+2021-01-15 15:46:47,735 - root -ERROR - this action is an error
+2021-01-15 15:46:47,735 - root -INFO - Reading file : start
+2021-01-15 15:46:47,766 - root -INFO - reading file : end
+2021-01-15 15:46:47,766 - root -INFO - Choosing random word : start
+2021-01-15 15:46:47,766 - root -INFO - Choosing random word : end
+2021-01-15 16:12:33,176 - root -INFO - This an info message
+2021-01-15 16:12:33,177 - root -ERROR - this action is an error
+2021-01-15 16:12:33,177 - root -INFO - Reading file : start
+2021-01-15 16:12:33,201 - root -INFO - reading file : end
+2021-01-15 16:12:33,202 - root -INFO - Choosing random word : start
+2021-01-15 16:12:33,202 - root -INFO - Choosing random word : end
+2021-01-15 16:14:14,167 - root -INFO - This an info message
+2021-01-15 16:14:14,167 - root -ERROR - this action is an error
+2021-01-15 16:14:14,167 - root -INFO - Reading file : start
+2021-01-15 16:14:14,191 - root -INFO - reading file : end
+2021-01-15 16:14:14,191 - root -INFO - Choosing random word : start
+2021-01-15 16:14:14,192 - root -INFO - Choosing random word : end
+2021-01-15 16:17:19,033 - root -INFO - This an info message
+2021-01-15 16:17:19,033 - root -ERROR - this action is an error
+2021-01-15 16:17:19,033 - root -INFO - Reading file : start
+2021-01-15 16:17:19,057 - root -INFO - reading file : end
+2021-01-15 16:17:19,057 - root -INFO - Choosing random word : start
+2021-01-15 16:17:19,057 - root -INFO - Choosing random word : end
+2021-01-15 16:17:55,896 - root -INFO - This an info message
+2021-01-15 16:17:55,896 - root -ERROR - this action is an error
+2021-01-15 16:17:55,896 - root -INFO - Reading file : start
+2021-01-15 16:17:55,921 - root -INFO - reading file : end
+2021-01-15 16:17:55,921 - root -INFO - Choosing random word : start
+2021-01-15 16:17:55,921 - root -INFO - Choosing random word : end
+2021-01-15 16:18:14,887 - root -INFO - This an info message
+2021-01-15 16:18:14,887 - root -ERROR - this action is an error
+2021-01-15 16:18:14,887 - root -INFO - Reading file : start
+2021-01-15 16:18:14,912 - root -INFO - reading file : end
+2021-01-15 16:18:14,912 - root -INFO - Choosing random word : start
+2021-01-15 16:18:14,912 - root -INFO - Choosing random word : end
+2021-01-15 16:18:52,443 - root -INFO - This an info message
+2021-01-15 16:18:52,443 - root -ERROR - this action is an error
+2021-01-15 16:18:52,444 - root -INFO - Reading file : start
+2021-01-15 16:18:52,469 - root -INFO - reading file : end
+2021-01-15 16:18:52,469 - root -INFO - Choosing random word : start
+2021-01-15 16:18:52,469 - root -INFO - Choosing random word : end
+2021-01-15 16:20:43,106 - root -INFO - This an info message
+2021-01-15 16:20:43,106 - root -ERROR - this action is an error
+2021-01-15 16:20:43,106 - root -INFO - Reading file : start
+2021-01-15 16:20:43,130 - root -INFO - reading file : end
+2021-01-15 16:20:43,130 - root -INFO - Choosing random word : start
+2021-01-15 16:20:43,130 - root -INFO - Choosing random word : end
+2021-01-15 16:22:15,498 - root -INFO - This an info message
+2021-01-15 16:22:15,498 - root -ERROR - this action is an error
+2021-01-15 16:22:15,498 - root -INFO - Reading file : start
+2021-01-15 16:22:15,522 - root -INFO - reading file : end
+2021-01-15 16:22:15,522 - root -INFO - Choosing random word : start
+2021-01-15 16:22:15,522 - root -INFO - Choosing random word : end
+2021-01-15 16:35:04,170 - root -INFO - This an info message
+2021-01-15 16:35:04,172 - root -ERROR - this action is an error
+2021-01-15 16:35:04,172 - root -INFO - Reading file : start
+2021-01-15 16:35:04,199 - root -INFO - reading file : end
+2021-01-15 16:35:04,199 - root -INFO - Choosing random word : start
+2021-01-15 16:35:04,199 - root -INFO - Choosing random word : end
+2021-01-15 16:40:44,299 - root -INFO - This an info message
+2021-01-15 16:40:44,300 - root -ERROR - this action is an error
+2021-01-15 16:40:44,300 - root -INFO - Reading file : start
+2021-01-15 16:40:44,326 - root -INFO - reading file : end
+2021-01-15 16:40:44,326 - root -INFO - Choosing random word : start
+2021-01-15 16:40:44,326 - root -INFO - Choosing random word : end
+2021-01-15 16:41:11,768 - root -INFO - This an info message
+2021-01-15 16:41:11,768 - root -ERROR - this action is an error
+2021-01-15 16:41:11,768 - root -INFO - Reading file : start
+2021-01-15 16:41:11,794 - root -INFO - reading file : end
+2021-01-15 16:41:11,794 - root -INFO - Choosing random word : start
+2021-01-15 16:41:11,794 - root -INFO - Choosing random word : end
+2021-01-15 16:41:40,190 - root -INFO - This an info message
+2021-01-15 16:41:40,190 - root -ERROR - this action is an error
+2021-01-15 16:41:40,190 - root -INFO - Reading file : start
+2021-01-15 16:41:40,215 - root -INFO - reading file : end
+2021-01-15 16:41:40,215 - root -INFO - Choosing random word : start
+2021-01-15 16:41:40,215 - root -INFO - Choosing random word : end
+2021-01-15 16:57:31,819 - root -INFO - This an info message
+2021-01-15 16:57:31,820 - root -ERROR - this action is an error
+2021-01-15 16:57:31,820 - root -INFO - Reading file : start
+2021-01-15 16:57:31,848 - root -INFO - reading file : end
+2021-01-15 16:57:31,848 - root -INFO - Choosing random word : start
+2021-01-15 16:57:31,848 - root -INFO - Choosing random word : end
+2021-01-15 16:57:59,955 - root -INFO - This an info message
+2021-01-15 16:57:59,955 - root -ERROR - this action is an error
+2021-01-15 16:57:59,955 - root -INFO - Reading file : start
+2021-01-15 16:57:59,978 - root -INFO - reading file : end
+2021-01-15 16:57:59,979 - root -INFO - Choosing random word : start
+2021-01-15 16:57:59,979 - root -INFO - Choosing random word : end
+2021-01-15 17:11:34,036 - root -INFO - This an info message
+2021-01-15 17:11:34,036 - root -ERROR - this action is an error
+2021-01-15 17:11:34,037 - root -INFO - Reading file : start
+2021-01-15 17:11:34,064 - root -INFO - reading file : end
+2021-01-15 17:11:34,064 - root -INFO - Choosing random word : start
+2021-01-15 17:11:34,064 - root -INFO - Choosing random word : end
+2021-01-15 17:12:11,965 - root -INFO - This an info message
+2021-01-15 17:12:11,965 - root -ERROR - this action is an error
+2021-01-15 17:12:11,965 - root -INFO - Reading file : start
+2021-01-15 17:12:11,989 - root -INFO - reading file : end
+2021-01-15 17:12:11,990 - root -INFO - Choosing random word : start
+2021-01-15 17:12:11,990 - root -INFO - Choosing random word : end
+2021-01-15 17:14:08,065 - root -INFO - This an info message
+2021-01-15 17:14:08,065 - root -ERROR - this action is an error
+2021-01-15 17:14:08,066 - root -INFO - Reading file : start
+2021-01-15 17:14:08,093 - root -INFO - reading file : end
+2021-01-15 17:14:08,093 - root -INFO - Choosing random word : start
+2021-01-15 17:14:08,093 - root -INFO - Choosing random word : end
+2021-01-15 17:14:51,587 - root -INFO - This an info message
+2021-01-15 17:14:51,587 - root -ERROR - this action is an error
+2021-01-15 17:14:51,587 - root -INFO - Reading file : start
+2021-01-15 17:14:51,612 - root -INFO - reading file : end
+2021-01-15 17:14:51,612 - root -INFO - Choosing random word : start
+2021-01-15 17:14:51,612 - root -INFO - Choosing random word : end
+2021-01-15 17:17:23,907 - root -INFO - This an info message
+2021-01-15 17:17:23,907 - root -ERROR - this action is an error
+2021-01-15 17:17:23,907 - root -INFO - Reading file : start
+2021-01-15 17:17:23,932 - root -INFO - reading file : end
+2021-01-15 17:17:23,932 - root -INFO - Choosing random word : start
+2021-01-15 17:17:23,932 - root -INFO - Choosing random word : end
+2021-01-15 17:18:44,855 - root -INFO - This an info message
+2021-01-15 17:18:44,855 - root -ERROR - this action is an error
+2021-01-15 17:18:44,855 - root -INFO - Reading file : start
+2021-01-15 17:18:44,890 - root -INFO - reading file : end
+2021-01-15 17:18:44,890 - root -INFO - Choosing random word : start
+2021-01-15 17:18:44,890 - root -INFO - Choosing random word : end
+2021-01-15 17:19:11,385 - root -INFO - This an info message
+2021-01-15 17:19:11,385 - root -ERROR - this action is an error
+2021-01-15 17:19:11,385 - root -INFO - Reading file : start
+2021-01-15 17:19:11,415 - root -INFO - reading file : end
+2021-01-15 17:19:11,415 - root -INFO - Choosing random word : start
+2021-01-15 17:19:11,415 - root -INFO - Choosing random word : end
+2021-01-16 14:49:24,542 - root -INFO - This an info message
+2021-01-16 14:49:24,543 - root -ERROR - this action is an error
+2021-01-16 14:49:24,543 - root -INFO - Reading file : start
+2021-01-16 14:49:49,122 - root -INFO - This an info message
+2021-01-16 14:49:49,122 - root -ERROR - this action is an error
+2021-01-16 14:49:49,122 - root -INFO - Reading file : start
+2021-01-16 15:03:05,060 - root -INFO - This an info message
+2021-01-16 15:03:05,060 - root -ERROR - this action is an error
+2021-01-16 15:03:05,061 - root -INFO - Reading file : start
+2021-01-16 15:03:05,090 - root -INFO - reading file : end
+2021-01-16 15:03:05,090 - root -INFO - Choosing random word : start
+2021-01-16 15:03:05,090 - root -INFO - Choosing random word : end
+2021-01-16 15:03:42,573 - root -INFO - This an info message
+2021-01-16 15:03:42,573 - root -ERROR - this action is an error
+2021-01-16 15:03:42,573 - root -INFO - Reading file : start
+2021-01-16 15:03:42,597 - root -INFO - reading file : end
+2021-01-16 15:03:42,597 - root -INFO - Choosing random word : start
+2021-01-16 15:03:42,597 - root -INFO - Choosing random word : end
+2021-01-16 15:07:56,621 - root -INFO - This an info message
+2021-01-16 15:07:56,621 - root -ERROR - this action is an error
+2021-01-16 15:07:56,621 - root -INFO - Reading file : start
+2021-01-16 15:07:56,650 - root -INFO - reading file : end
+2021-01-16 15:07:56,651 - root -INFO - Choosing random word : start
+2021-01-16 15:07:56,651 - root -INFO - Choosing random word : end
+2021-01-16 15:09:37,270 - root -INFO - This an info message
+2021-01-16 15:09:37,270 - root -ERROR - this action is an error
+2021-01-16 15:09:37,270 - root -INFO - Reading file : start
+2021-01-16 15:09:37,294 - root -INFO - reading file : end
+2021-01-16 15:09:37,294 - root -INFO - Choosing random word : start
+2021-01-16 15:09:37,294 - root -INFO - Choosing random word : end
+2021-01-16 15:10:56,874 - root -INFO - This an info message
+2021-01-16 15:10:56,874 - root -ERROR - this action is an error
+2021-01-16 15:10:56,874 - root -INFO - Reading file : start
+2021-01-16 15:10:56,897 - root -INFO - reading file : end
+2021-01-16 15:10:56,897 - root -INFO - Choosing random word : start
+2021-01-16 15:10:56,897 - root -INFO - Choosing random word : end
+2021-01-16 15:17:05,389 - root -INFO - This an info message
+2021-01-16 15:17:05,389 - root -ERROR - this action is an error
+2021-01-16 15:17:05,389 - root -INFO - Reading file : start
+2021-01-16 15:17:05,413 - root -INFO - reading file : end
+2021-01-16 15:17:05,413 - root -INFO - Choosing random word : start
+2021-01-16 15:17:05,413 - root -INFO - Choosing random word : end
+2021-01-16 15:19:27,540 - root -INFO - This an info message
+2021-01-16 15:19:27,540 - root -ERROR - this action is an error
+2021-01-16 15:19:27,540 - root -INFO - Reading file : start
+2021-01-16 15:19:27,563 - root -INFO - reading file : end
+2021-01-16 15:19:27,563 - root -INFO - Choosing random word : start
+2021-01-16 15:19:27,564 - root -INFO - Choosing random word : end
+2021-01-16 15:27:01,031 - root -INFO - This an info message
+2021-01-16 15:27:01,031 - root -ERROR - this action is an error
+2021-01-16 15:27:01,031 - root -INFO - Reading file : start
+2021-01-16 15:27:01,057 - root -INFO - reading file : end
+2021-01-16 15:27:01,057 - root -INFO - Choosing random word : start
+2021-01-16 15:27:01,057 - root -INFO - Choosing random word : end
+2021-01-16 15:27:32,195 - root -INFO - This an info message
+2021-01-16 15:27:32,195 - root -ERROR - this action is an error
+2021-01-16 15:27:32,195 - root -INFO - Reading file : start
+2021-01-16 15:27:32,218 - root -INFO - reading file : end
+2021-01-16 15:27:32,218 - root -INFO - Choosing random word : start
+2021-01-16 15:27:32,218 - root -INFO - Choosing random word : end
+2021-01-16 15:28:47,461 - root -INFO - This an info message
+2021-01-16 15:28:47,461 - root -ERROR - this action is an error
+2021-01-16 15:28:47,461 - root -INFO - Reading file : start
+2021-01-16 15:28:47,490 - root -INFO - reading file : end
+2021-01-16 15:28:47,490 - root -INFO - Choosing random word : start
+2021-01-16 15:28:47,490 - root -INFO - Choosing random word : end
+2021-01-16 15:29:02,626 - root -INFO - This an info message
+2021-01-16 15:29:02,626 - root -ERROR - this action is an error
+2021-01-16 15:29:02,626 - root -INFO - Reading file : start
+2021-01-16 15:29:02,649 - root -INFO - reading file : end
+2021-01-16 15:29:02,650 - root -INFO - Choosing random word : start
+2021-01-16 15:29:02,650 - root -INFO - Choosing random word : end
+2021-01-16 15:30:13,667 - root -INFO - This an info message
+2021-01-16 15:30:13,667 - root -ERROR - this action is an error
+2021-01-16 15:30:13,667 - root -INFO - Reading file : start
+2021-01-16 15:30:13,696 - root -INFO - reading file : end
+2021-01-16 15:30:13,696 - root -INFO - Choosing random word : start
+2021-01-16 15:30:13,696 - root -INFO - Choosing random word : end
+2021-01-16 15:31:31,457 - root -INFO - This an info message
+2021-01-16 15:31:31,458 - root -ERROR - this action is an error
+2021-01-16 15:31:31,458 - root -INFO - Reading file : start
+2021-01-16 15:31:31,481 - root -INFO - reading file : end
+2021-01-16 15:31:31,482 - root -INFO - Choosing random word : start
+2021-01-16 15:31:31,482 - root -INFO - Choosing random word : end
+2021-01-16 15:57:58,598 - root -INFO - This an info message
+2021-01-16 15:57:58,598 - root -ERROR - this action is an error
+2021-01-16 15:57:58,598 - root -INFO - Reading file : start
+2021-01-16 15:57:58,624 - root -INFO - reading file : end
+2021-01-16 15:57:58,624 - root -INFO - Choosing random word : start
+2021-01-16 15:58:18,929 - root -INFO - This an info message
+2021-01-16 15:58:18,929 - root -ERROR - this action is an error
+2021-01-16 15:58:18,929 - root -INFO - Reading file : start
+2021-01-16 15:58:18,954 - root -INFO - reading file : end
+2021-01-16 15:58:18,954 - root -INFO - Choosing random word : start
+2021-01-16 15:58:18,954 - root -INFO - Choosing random word : end
+2021-01-16 15:59:00,810 - root -INFO - This an info message
+2021-01-16 15:59:00,810 - root -ERROR - this action is an error
+2021-01-16 15:59:00,810 - root -INFO - Reading file : start
+2021-01-16 15:59:00,836 - root -INFO - reading file : end
+2021-01-16 15:59:00,836 - root -INFO - Choosing random word : start
+2021-01-16 15:59:00,836 - root -INFO - Choosing random word : end
+2021-01-16 15:59:21,911 - root -INFO - This an info message
+2021-01-16 15:59:21,911 - root -ERROR - this action is an error
+2021-01-16 15:59:21,911 - root -INFO - Reading file : start
+2021-01-16 15:59:21,940 - root -INFO - reading file : end
+2021-01-16 15:59:21,940 - root -INFO - Choosing random word : start
+2021-01-16 15:59:21,940 - root -INFO - Choosing random word : end
+2021-01-16 15:59:37,727 - root -INFO - This an info message
+2021-01-16 15:59:37,727 - root -ERROR - this action is an error
+2021-01-16 15:59:37,727 - root -INFO - Reading file : start
+2021-01-16 15:59:37,750 - root -INFO - reading file : end
+2021-01-16 15:59:37,750 - root -INFO - Choosing random word : start
+2021-01-16 15:59:37,751 - root -INFO - Choosing random word : end
+2021-01-16 16:00:17,396 - root -INFO - This an info message
+2021-01-16 16:00:17,396 - root -ERROR - this action is an error
+2021-01-16 16:00:17,396 - root -INFO - Reading file : start
+2021-01-16 16:00:17,420 - root -INFO - reading file : end
+2021-01-16 16:00:17,421 - root -INFO - Choosing random word : start
+2021-01-16 16:00:17,421 - root -INFO - Choosing random word : end
+2021-01-16 16:04:35,282 - root -INFO - This an info message
+2021-01-16 16:04:35,282 - root -ERROR - this action is an error
+2021-01-16 16:04:35,282 - root -INFO - Reading file : start
+2021-01-16 16:04:35,307 - root -INFO - reading file : end
+2021-01-16 16:04:35,307 - root -INFO - Choosing random word : start
+2021-01-16 16:04:35,307 - root -INFO - Choosing random word : end
+2021-01-16 16:05:03,907 - root -INFO - This an info message
+2021-01-16 16:05:03,907 - root -ERROR - this action is an error
+2021-01-16 16:05:03,907 - root -INFO - Reading file : start
+2021-01-16 16:05:03,931 - root -INFO - reading file : end
+2021-01-16 16:05:03,932 - root -INFO - Choosing random word : start
+2021-01-16 16:05:03,932 - root -INFO - Choosing random word : end
+2021-01-16 16:05:16,922 - root -INFO - This an info message
+2021-01-16 16:05:16,922 - root -ERROR - this action is an error
+2021-01-16 16:05:16,922 - root -INFO - Reading file : start
+2021-01-16 16:05:16,946 - root -INFO - reading file : end
+2021-01-16 16:05:16,946 - root -INFO - Choosing random word : start
+2021-01-16 16:05:16,946 - root -INFO - Choosing random word : end
+2021-01-16 17:08:26,469 - root -INFO - This an info message
+2021-01-16 17:08:26,469 - root -ERROR - this action is an error
+2021-01-16 17:08:26,469 - root -INFO - Reading file : start
+2021-01-16 17:08:26,499 - root -INFO - reading file : end
+2021-01-16 17:08:26,499 - root -INFO - Choosing random word : start
+2021-01-16 17:08:26,500 - root -INFO - Choosing random word : end
+2021-01-16 17:08:39,608 - root -INFO - This an info message
+2021-01-16 17:08:39,608 - root -ERROR - this action is an error
+2021-01-16 17:08:39,608 - root -INFO - Reading file : start
+2021-01-16 17:08:39,637 - root -INFO - reading file : end
+2021-01-16 17:08:39,637 - root -INFO - Choosing random word : start
+2021-01-16 17:08:39,638 - root -INFO - Choosing random word : end
+2021-01-16 17:09:27,120 - root -INFO - This an info message
+2021-01-16 17:09:27,120 - root -ERROR - this action is an error
+2021-01-16 17:09:27,120 - root -INFO - Reading file : start
+2021-01-16 17:09:27,145 - root -INFO - reading file : end
+2021-01-16 17:09:27,145 - root -INFO - Choosing random word : start
+2021-01-16 17:09:27,145 - root -INFO - Choosing random word : end
+2021-01-16 17:10:26,157 - root -INFO - This an info message
+2021-01-16 17:10:26,157 - root -ERROR - this action is an error
+2021-01-16 17:10:26,157 - root -INFO - Reading file : start
+2021-01-16 17:10:26,184 - root -INFO - reading file : end
+2021-01-16 17:10:26,184 - root -INFO - Choosing random word : start
+2021-01-16 17:10:26,184 - root -INFO - Choosing random word : end
+2021-01-16 17:10:57,616 - root -INFO - This an info message
+2021-01-16 17:10:57,616 - root -ERROR - this action is an error
+2021-01-16 17:10:57,616 - root -INFO - Reading file : start
+2021-01-16 17:10:57,640 - root -INFO - reading file : end
+2021-01-16 17:10:57,640 - root -INFO - Choosing random word : start
+2021-01-16 17:10:57,640 - root -INFO - Choosing random word : end
+2021-01-20 08:44:23,835 - root -INFO - This an info message
+2021-01-20 08:44:23,836 - root -ERROR - this action is an error
+2021-01-20 08:44:23,837 - root -INFO - Reading file : start
+2021-01-20 08:44:36,764 - root -INFO - This an info message
+2021-01-20 08:44:36,764 - root -ERROR - this action is an error
+2021-01-20 08:44:36,764 - root -INFO - Reading file : start
+2021-01-20 08:44:36,802 - root -INFO - reading file : end
+2021-01-20 08:44:36,803 - root -INFO - Choosing random word : start
+2021-01-20 08:44:36,803 - root -INFO - Choosing random word : end
+2021-01-20 08:44:52,003 - root -INFO - This an info message
+2021-01-20 08:44:52,003 - root -ERROR - this action is an error
+2021-01-20 08:44:52,003 - root -INFO - Reading file : start
+2021-01-20 08:44:52,027 - root -INFO - reading file : end
+2021-01-20 08:44:52,027 - root -INFO - Choosing random word : start
+2021-01-20 08:44:52,027 - root -INFO - Choosing random word : end
+2021-01-20 08:44:52,027 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:44:52,027 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:44:52,027 - root -INFO - start of game
+2021-01-20 08:46:15,167 - root -INFO - This an info message
+2021-01-20 08:46:15,167 - root -ERROR - this action is an error
+2021-01-20 08:46:15,168 - root -INFO - Reading file : start
+2021-01-20 08:46:15,196 - root -INFO - reading file : end
+2021-01-20 08:46:15,196 - root -INFO - Choosing random word : start
+2021-01-20 08:46:30,807 - root -INFO - This an info message
+2021-01-20 08:46:30,807 - root -ERROR - this action is an error
+2021-01-20 08:46:30,807 - root -INFO - Reading file : start
+2021-01-20 08:46:30,831 - root -INFO - reading file : end
+2021-01-20 08:46:30,831 - root -INFO - Choosing random word : start
+2021-01-20 08:46:30,831 - root -INFO - Choosing random word : end
+2021-01-20 08:46:30,832 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:46:30,832 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:46:30,832 - root -INFO - start of game
+2021-01-20 08:46:37,096 - root -INFO - user chose a letter
+2021-01-20 08:46:37,096 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:46:37,096 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:46:37,097 - root -INFO - transforming the list to a string
+2021-01-20 08:46:37,097 - root -INFO - transforming the list to a string
+2021-01-20 08:47:10,615 - root -INFO - This an info message
+2021-01-20 08:47:10,615 - root -ERROR - this action is an error
+2021-01-20 08:47:10,615 - root -INFO - Reading file : start
+2021-01-20 08:47:10,639 - root -INFO - reading file : end
+2021-01-20 08:47:10,639 - root -INFO - Choosing random word : start
+2021-01-20 08:47:10,639 - root -INFO - Choosing random word : end
+2021-01-20 08:47:10,639 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:47:10,640 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:47:10,640 - root -INFO - start of game
+2021-01-20 08:47:13,568 - root -INFO - user chose a letter
+2021-01-20 08:47:13,568 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:13,568 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:13,568 - root -INFO - transforming the list to a string
+2021-01-20 08:47:13,569 - root -INFO - transforming the list to a string
+2021-01-20 08:47:16,094 - root -INFO - user chose a letter
+2021-01-20 08:47:16,094 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:16,094 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:16,094 - root -INFO - transforming the list to a string
+2021-01-20 08:47:16,095 - root -INFO - transforming the list to a string
+2021-01-20 08:47:17,675 - root -INFO - user chose a letter
+2021-01-20 08:47:17,675 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:17,675 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:17,675 - root -INFO - transforming the list to a string
+2021-01-20 08:47:17,675 - root -INFO - transforming the list to a string
+2021-01-20 08:47:18,563 - root -INFO - user chose a letter
+2021-01-20 08:47:18,563 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:18,563 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:18,563 - root -INFO - transforming the list to a string
+2021-01-20 08:47:18,563 - root -INFO - transforming the list to a string
+2021-01-20 08:47:23,194 - root -INFO - This an info message
+2021-01-20 08:47:23,194 - root -ERROR - this action is an error
+2021-01-20 08:47:23,194 - root -INFO - Reading file : start
+2021-01-20 08:47:23,219 - root -INFO - reading file : end
+2021-01-20 08:47:23,219 - root -INFO - Choosing random word : start
+2021-01-20 08:47:23,219 - root -INFO - Choosing random word : end
+2021-01-20 08:47:23,219 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:47:23,219 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:47:23,219 - root -INFO - start of game
+2021-01-20 08:47:25,660 - root -INFO - user chose a letter
+2021-01-20 08:47:25,661 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:25,661 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:25,661 - root -INFO - transforming the list to a string
+2021-01-20 08:47:25,661 - root -INFO - transforming the list to a string
+2021-01-20 08:47:28,214 - root -INFO - user chose a letter
+2021-01-20 08:47:28,214 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:28,214 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:28,214 - root -INFO - transforming the list to a string
+2021-01-20 08:47:28,215 - root -INFO - transforming the list to a string
+2021-01-20 08:47:29,144 - root -INFO - user chose a letter
+2021-01-20 08:47:29,145 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:29,145 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:29,145 - root -INFO - transforming the list to a string
+2021-01-20 08:47:29,145 - root -INFO - transforming the list to a string
+2021-01-20 08:47:29,830 - root -INFO - user chose a letter
+2021-01-20 08:47:29,831 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:29,831 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:29,831 - root -INFO - transforming the list to a string
+2021-01-20 08:47:29,831 - root -INFO - transforming the list to a string
+2021-01-20 08:47:30,696 - root -INFO - user chose a letter
+2021-01-20 08:47:30,696 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:30,697 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:30,697 - root -INFO - transforming the list to a string
+2021-01-20 08:47:30,697 - root -INFO - transforming the list to a string
+2021-01-20 08:47:33,356 - root -INFO - user chose a letter
+2021-01-20 08:47:33,357 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:47:33,357 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:47:33,357 - root -INFO - transforming the list to a string
+2021-01-20 08:47:33,357 - root -INFO - transforming the list to a string
+2021-01-20 08:52:56,603 - root -INFO - This an info message
+2021-01-20 08:52:56,603 - root -ERROR - this action is an error
+2021-01-20 08:52:56,604 - root -INFO - Reading file : start
+2021-01-20 08:52:56,627 - root -INFO - reading file : end
+2021-01-20 08:52:56,627 - root -INFO - Choosing random word : start
+2021-01-20 08:52:56,627 - root -INFO - Choosing random word : end
+2021-01-20 08:52:56,627 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:52:56,627 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:52:56,627 - root -INFO - start of game
+2021-01-20 08:52:59,999 - root -INFO - user chose a letter
+2021-01-20 08:53:00,000 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:00,000 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:00,000 - root -INFO - transforming the list to a string
+2021-01-20 08:53:00,000 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:00,001 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:00,001 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:00,001 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:00,001 - root -INFO - display the wrong letter
+2021-01-20 08:53:00,002 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:00,002 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:10,006 - root -INFO - user chose a letter
+2021-01-20 08:53:10,007 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:10,007 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:10,007 - root -INFO - transforming the list to a string
+2021-01-20 08:53:10,007 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:10,008 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:10,008 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:10,008 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:10,008 - root -INFO - display the wrong letter
+2021-01-20 08:53:10,008 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:10,008 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:11,054 - root -INFO - user chose a letter
+2021-01-20 08:53:11,054 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:11,055 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:11,055 - root -INFO - transforming the list to a string
+2021-01-20 08:53:11,055 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:11,055 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:11,056 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:11,056 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:11,056 - root -INFO - display the wrong letter
+2021-01-20 08:53:11,056 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:11,056 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:11,782 - root -INFO - user chose a letter
+2021-01-20 08:53:11,782 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:11,783 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:11,783 - root -INFO - transforming the list to a string
+2021-01-20 08:53:11,783 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:11,783 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:11,783 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:11,783 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:11,783 - root -INFO - display the wrong letter
+2021-01-20 08:53:11,783 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:11,784 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:12,937 - root -INFO - user chose a letter
+2021-01-20 08:53:12,937 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:12,937 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:12,938 - root -INFO - transforming the list to a string
+2021-01-20 08:53:12,938 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:12,938 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:12,938 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:12,938 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:12,938 - root -INFO - display the wrong letter
+2021-01-20 08:53:12,938 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:12,938 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:14,819 - root -INFO - user chose a letter
+2021-01-20 08:53:14,819 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:14,820 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:14,820 - root -INFO - transforming the list to a string
+2021-01-20 08:53:14,820 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:14,820 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:14,820 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:14,820 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:14,820 - root -INFO - display the wrong letter
+2021-01-20 08:53:14,821 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:14,821 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:53:38,478 - root -INFO - This an info message
+2021-01-20 08:53:38,478 - root -ERROR - this action is an error
+2021-01-20 08:53:38,479 - root -INFO - Reading file : start
+2021-01-20 08:53:38,509 - root -INFO - reading file : end
+2021-01-20 08:53:38,509 - root -INFO - Choosing random word : start
+2021-01-20 08:53:38,509 - root -INFO - Choosing random word : end
+2021-01-20 08:53:38,509 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:53:38,509 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:53:38,509 - root -INFO - start of game
+2021-01-20 08:53:40,855 - root -INFO - user chose a letter
+2021-01-20 08:53:40,855 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:53:40,855 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:53:40,856 - root -INFO - transforming the list to a string
+2021-01-20 08:53:40,856 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:40,856 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:53:40,856 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:53:40,856 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:53:40,857 - root -INFO - display the wrong letter
+2021-01-20 08:53:40,857 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:53:40,857 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:54:03,378 - root -INFO - This an info message
+2021-01-20 08:54:03,378 - root -ERROR - this action is an error
+2021-01-20 08:54:03,378 - root -INFO - Reading file : start
+2021-01-20 08:54:03,402 - root -INFO - reading file : end
+2021-01-20 08:54:03,402 - root -INFO - Choosing random word : start
+2021-01-20 08:54:03,402 - root -INFO - Choosing random word : end
+2021-01-20 08:54:03,402 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:54:03,402 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:54:03,402 - root -INFO - start of game
+2021-01-20 08:54:04,886 - root -INFO - user chose a letter
+2021-01-20 08:54:04,886 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:54:04,886 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:54:04,887 - root -INFO - transforming the list to a string
+2021-01-20 08:54:04,887 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:54:04,887 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:54:04,887 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:54:04,887 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:54:04,887 - root -INFO - display the wrong letter
+2021-01-20 08:54:04,887 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:54:04,888 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:54:45,703 - root -INFO - This an info message
+2021-01-20 08:54:45,703 - root -ERROR - this action is an error
+2021-01-20 08:54:45,703 - root -INFO - Reading file : start
+2021-01-20 08:54:45,733 - root -INFO - reading file : end
+2021-01-20 08:54:45,733 - root -INFO - Choosing random word : start
+2021-01-20 08:54:45,733 - root -INFO - Choosing random word : end
+2021-01-20 08:54:45,733 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:54:45,733 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:54:45,733 - root -INFO - start of game
+2021-01-20 08:54:47,126 - root -INFO - user chose a letter
+2021-01-20 08:54:47,126 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:54:47,126 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:54:47,126 - root -INFO - transforming the list to a string
+2021-01-20 08:54:47,127 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:54:47,127 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:54:47,127 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:54:47,127 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:54:47,127 - root -INFO - display the wrong letter
+2021-01-20 08:54:47,127 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:54:47,127 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:56:40,785 - root -INFO - This an info message
+2021-01-20 08:56:40,786 - root -ERROR - this action is an error
+2021-01-20 08:56:40,786 - root -INFO - Reading file : start
+2021-01-20 08:56:40,821 - root -INFO - reading file : end
+2021-01-20 08:56:40,821 - root -INFO - Choosing random word : start
+2021-01-20 08:56:40,821 - root -INFO - Choosing random word : end
+2021-01-20 08:56:40,821 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:56:40,821 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:56:40,822 - root -INFO - start of game
+2021-01-20 08:56:42,275 - root -INFO - user chose a letter
+2021-01-20 08:56:42,276 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:56:42,276 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:56:42,276 - root -INFO - transforming the list to a string
+2021-01-20 08:56:42,276 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:56:42,276 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:56:42,276 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:56:42,276 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:56:42,277 - root -INFO - display the wrong letter
+2021-01-20 08:56:42,277 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:02,337 - root -INFO - This an info message
+2021-01-20 08:57:02,337 - root -ERROR - this action is an error
+2021-01-20 08:57:02,337 - root -INFO - Reading file : start
+2021-01-20 08:57:02,362 - root -INFO - reading file : end
+2021-01-20 08:57:02,362 - root -INFO - Choosing random word : start
+2021-01-20 08:57:02,362 - root -INFO - Choosing random word : end
+2021-01-20 08:57:02,363 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:57:02,363 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:57:02,363 - root -INFO - start of game
+2021-01-20 08:57:03,807 - root -INFO - user chose a letter
+2021-01-20 08:57:03,807 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:03,807 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:03,807 - root -INFO - transforming the list to a string
+2021-01-20 08:57:03,808 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:03,808 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:03,808 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:03,808 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:03,808 - root -INFO - display the wrong letter
+2021-01-20 08:57:03,808 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:03,808 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:16,755 - root -INFO - This an info message
+2021-01-20 08:57:16,755 - root -ERROR - this action is an error
+2021-01-20 08:57:16,755 - root -INFO - Reading file : start
+2021-01-20 08:57:16,779 - root -INFO - reading file : end
+2021-01-20 08:57:16,779 - root -INFO - Choosing random word : start
+2021-01-20 08:57:16,779 - root -INFO - Choosing random word : end
+2021-01-20 08:57:16,779 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:57:16,779 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:57:16,779 - root -INFO - start of game
+2021-01-20 08:57:18,018 - root -INFO - user chose a letter
+2021-01-20 08:57:18,018 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:18,018 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:18,018 - root -INFO - transforming the list to a string
+2021-01-20 08:57:18,018 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:18,018 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:18,019 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:18,019 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:18,019 - root -INFO - display the wrong letter
+2021-01-20 08:57:18,019 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:18,019 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:19,160 - root -INFO - user chose a letter
+2021-01-20 08:57:19,161 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:19,161 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:19,161 - root -INFO - transforming the list to a string
+2021-01-20 08:57:19,161 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:19,161 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:19,161 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:19,162 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:19,162 - root -INFO - display the wrong letter
+2021-01-20 08:57:19,162 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:19,162 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:19,803 - root -INFO - user chose a letter
+2021-01-20 08:57:19,804 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:19,804 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:19,804 - root -INFO - transforming the list to a string
+2021-01-20 08:57:19,804 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:19,804 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:19,804 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:19,805 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:19,805 - root -INFO - display the wrong letter
+2021-01-20 08:57:19,805 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:19,805 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:20,484 - root -INFO - user chose a letter
+2021-01-20 08:57:20,485 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:20,485 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:20,485 - root -INFO - transforming the list to a string
+2021-01-20 08:57:20,485 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:20,485 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:20,485 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:20,486 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:20,486 - root -INFO - display the wrong letter
+2021-01-20 08:57:20,486 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:20,486 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:21,980 - root -INFO - user chose a letter
+2021-01-20 08:57:21,981 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:21,981 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:21,981 - root -INFO - transforming the list to a string
+2021-01-20 08:57:21,981 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:21,981 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:21,981 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:21,981 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:21,982 - root -INFO - display the wrong letter
+2021-01-20 08:57:21,982 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:21,982 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:41,921 - root -INFO - This an info message
+2021-01-20 08:57:41,921 - root -ERROR - this action is an error
+2021-01-20 08:57:41,921 - root -INFO - Reading file : start
+2021-01-20 08:57:41,946 - root -INFO - reading file : end
+2021-01-20 08:57:41,946 - root -INFO - Choosing random word : start
+2021-01-20 08:57:41,946 - root -INFO - Choosing random word : end
+2021-01-20 08:57:41,946 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:57:41,946 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:57:41,947 - root -INFO - start of game
+2021-01-20 08:57:43,558 - root -INFO - user chose a letter
+2021-01-20 08:57:43,558 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:43,558 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:43,558 - root -INFO - transforming the list to a string
+2021-01-20 08:57:43,559 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:43,559 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:43,559 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:43,559 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:43,559 - root -INFO - display the wrong letter
+2021-01-20 08:57:43,559 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:43,559 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:44,211 - root -INFO - user chose a letter
+2021-01-20 08:57:44,212 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:44,212 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:44,212 - root -INFO - transforming the list to a string
+2021-01-20 08:57:44,212 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:44,212 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:44,212 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:44,212 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:44,212 - root -INFO - display the wrong letter
+2021-01-20 08:57:44,212 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:44,212 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:44,777 - root -INFO - user chose a letter
+2021-01-20 08:57:44,777 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:44,777 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:44,777 - root -INFO - transforming the list to a string
+2021-01-20 08:57:44,777 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:44,777 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:44,778 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:44,778 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:44,778 - root -INFO - display the wrong letter
+2021-01-20 08:57:44,778 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:44,778 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:45,313 - root -INFO - user chose a letter
+2021-01-20 08:57:45,314 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:45,314 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:45,314 - root -INFO - transforming the list to a string
+2021-01-20 08:57:45,314 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:45,314 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:45,314 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:45,315 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:45,315 - root -INFO - display the wrong letter
+2021-01-20 08:57:45,315 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:45,315 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:45,957 - root -INFO - user chose a letter
+2021-01-20 08:57:45,957 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:57:45,957 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:57:45,957 - root -INFO - transforming the list to a string
+2021-01-20 08:57:45,958 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:45,958 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:57:45,958 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:57:45,958 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:57:45,958 - root -INFO - display the wrong letter
+2021-01-20 08:57:45,958 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:57:45,958 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:57:59,983 - root -INFO - This an info message
+2021-01-20 08:57:59,984 - root -ERROR - this action is an error
+2021-01-20 08:57:59,984 - root -INFO - Reading file : start
+2021-01-20 08:58:00,010 - root -INFO - reading file : end
+2021-01-20 08:58:00,010 - root -INFO - Choosing random word : start
+2021-01-20 08:58:00,010 - root -INFO - Choosing random word : end
+2021-01-20 08:58:00,010 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 08:58:00,010 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 08:58:00,010 - root -INFO - start of game
+2021-01-20 08:58:01,332 - root -INFO - user chose a letter
+2021-01-20 08:58:01,333 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:01,333 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:01,333 - root -INFO - transforming the list to a string
+2021-01-20 08:58:01,333 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:01,334 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:01,334 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:01,334 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:01,335 - root -INFO - display the wrong letter
+2021-01-20 08:58:01,335 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:58:01,336 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:58:01,904 - root -INFO - user chose a letter
+2021-01-20 08:58:01,905 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:01,905 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:01,905 - root -INFO - transforming the list to a string
+2021-01-20 08:58:01,905 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:01,905 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:01,905 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:01,906 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:01,906 - root -INFO - display the wrong letter
+2021-01-20 08:58:01,906 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:58:01,906 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:58:02,377 - root -INFO - user chose a letter
+2021-01-20 08:58:02,377 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:02,378 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:02,378 - root -INFO - transforming the list to a string
+2021-01-20 08:58:02,378 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:02,378 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:02,378 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:02,378 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:02,378 - root -INFO - display the wrong letter
+2021-01-20 08:58:02,378 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:58:02,379 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:58:02,874 - root -INFO - user chose a letter
+2021-01-20 08:58:02,874 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:02,875 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:02,875 - root -INFO - transforming the list to a string
+2021-01-20 08:58:02,875 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:02,875 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:02,875 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:02,875 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:02,875 - root -INFO - display the wrong letter
+2021-01-20 08:58:02,875 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:58:02,876 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:58:03,492 - root -INFO - user chose a letter
+2021-01-20 08:58:03,493 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:03,493 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:03,493 - root -INFO - transforming the list to a string
+2021-01-20 08:58:03,493 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:03,493 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:03,493 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:03,493 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:03,493 - root -INFO - display the wrong letter
+2021-01-20 08:58:03,494 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 08:58:03,494 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 08:58:04,703 - root -INFO - user chose a letter
+2021-01-20 08:58:04,703 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 08:58:04,703 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 08:58:04,703 - root -INFO - transforming the list to a string
+2021-01-20 08:58:04,704 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:04,704 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 08:58:04,704 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 08:58:04,704 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 08:58:04,704 - root -INFO - display the wrong letter
+2021-01-20 08:58:04,704 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:08:17,878 - root -INFO - This an info message
+2021-01-20 09:08:17,879 - root -ERROR - this action is an error
+2021-01-20 09:08:17,879 - root -INFO - Reading file : start
+2021-01-20 09:08:17,939 - root -INFO - reading file : end
+2021-01-20 09:08:17,939 - root -INFO - Choosing random word : start
+2021-01-20 09:08:17,940 - root -INFO - Choosing random word : end
+2021-01-20 09:10:07,480 - root -INFO - This an info message
+2021-01-20 09:10:07,481 - root -ERROR - this action is an error
+2021-01-20 09:10:07,481 - root -INFO - Reading file : start
+2021-01-20 09:10:07,508 - root -INFO - reading file : end
+2021-01-20 09:10:07,508 - root -INFO - Choosing random word : start
+2021-01-20 09:10:07,508 - root -INFO - Choosing random word : end
+2021-01-20 09:10:07,508 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:10:07,508 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:10:07,508 - root -INFO - start of game
+2021-01-20 09:10:10,051 - root -INFO - user chose a letter
+2021-01-20 09:10:10,051 - root -INFO - forcing the user to write a letter
+2021-01-20 09:10:50,464 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:10:50,464 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:10:50,464 - root -INFO - transforming the list to a string
+2021-01-20 09:10:50,465 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:10:50,465 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:10:50,465 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:10:50,465 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:10:50,465 - root -INFO - display the wrong letter
+2021-01-20 09:10:50,466 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:12:29,860 - root -INFO - This an info message
+2021-01-20 09:12:29,861 - root -ERROR - this action is an error
+2021-01-20 09:12:29,861 - root -INFO - Reading file : start
+2021-01-20 09:12:29,919 - root -INFO - reading file : end
+2021-01-20 09:12:29,919 - root -INFO - Choosing random word : start
+2021-01-20 09:12:29,919 - root -INFO - Choosing random word : end
+2021-01-20 09:12:29,920 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:12:29,920 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:12:29,920 - root -INFO - start of game
+2021-01-20 09:12:31,414 - root -INFO - user chose a letter
+2021-01-20 09:12:31,414 - root -INFO - forcing the user to write a letter
+2021-01-20 09:13:10,188 - root -INFO - This an info message
+2021-01-20 09:13:10,188 - root -ERROR - this action is an error
+2021-01-20 09:13:10,188 - root -INFO - Reading file : start
+2021-01-20 09:13:10,215 - root -INFO - reading file : end
+2021-01-20 09:13:10,216 - root -INFO - Choosing random word : start
+2021-01-20 09:13:10,216 - root -INFO - Choosing random word : end
+2021-01-20 09:13:10,216 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:13:10,216 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:13:10,216 - root -INFO - start of game
+2021-01-20 09:13:11,844 - root -INFO - user chose a letter
+2021-01-20 09:13:11,844 - root -INFO - forcing the user to write a letter
+2021-01-20 09:13:23,641 - root -INFO - This an info message
+2021-01-20 09:13:23,641 - root -ERROR - this action is an error
+2021-01-20 09:13:23,642 - root -INFO - Reading file : start
+2021-01-20 09:13:23,665 - root -INFO - reading file : end
+2021-01-20 09:13:23,665 - root -INFO - Choosing random word : start
+2021-01-20 09:13:23,665 - root -INFO - Choosing random word : end
+2021-01-20 09:13:23,665 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:13:23,665 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:13:23,665 - root -INFO - start of game
+2021-01-20 09:13:26,297 - root -INFO - user chose a letter
+2021-01-20 09:13:26,298 - root -INFO - forcing the user to write a letter
+2021-01-20 09:13:26,298 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:13:26,298 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:13:26,299 - root -INFO - transforming the list to a string
+2021-01-20 09:13:26,299 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:26,299 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:26,299 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:13:26,299 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:13:26,300 - root -INFO - display the wrong letter
+2021-01-20 09:13:26,300 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:13:26,300 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:13:29,085 - root -INFO - user chose a letter
+2021-01-20 09:13:29,085 - root -INFO - forcing the user to write a letter
+2021-01-20 09:13:29,086 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:13:29,086 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:13:29,086 - root -INFO - transforming the list to a string
+2021-01-20 09:13:29,086 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:29,086 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:29,087 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:13:29,087 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:13:29,087 - root -INFO - display the wrong letter
+2021-01-20 09:13:29,087 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:13:29,087 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:13:42,078 - root -INFO - This an info message
+2021-01-20 09:13:42,078 - root -ERROR - this action is an error
+2021-01-20 09:13:42,078 - root -INFO - Reading file : start
+2021-01-20 09:13:42,105 - root -INFO - reading file : end
+2021-01-20 09:13:42,106 - root -INFO - Choosing random word : start
+2021-01-20 09:13:42,106 - root -INFO - Choosing random word : end
+2021-01-20 09:13:42,106 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:13:42,106 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:13:42,106 - root -INFO - start of game
+2021-01-20 09:13:43,313 - root -INFO - user chose a letter
+2021-01-20 09:13:43,313 - root -INFO - forcing the user to write a letter
+2021-01-20 09:13:43,313 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:13:43,314 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:13:43,314 - root -INFO - transforming the list to a string
+2021-01-20 09:13:43,314 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:43,314 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:13:43,314 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:13:43,314 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:13:43,314 - root -INFO - display the wrong letter
+2021-01-20 09:13:43,314 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:14:10,651 - root -INFO - This an info message
+2021-01-20 09:14:10,651 - root -ERROR - this action is an error
+2021-01-20 09:14:10,651 - root -INFO - Reading file : start
+2021-01-20 09:14:10,681 - root -INFO - reading file : end
+2021-01-20 09:14:10,682 - root -INFO - Choosing random word : start
+2021-01-20 09:14:10,682 - root -INFO - Choosing random word : end
+2021-01-20 09:14:10,682 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:14:10,682 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:14:10,683 - root -INFO - start of game
+2021-01-20 09:14:12,330 - root -INFO - user chose a letter
+2021-01-20 09:14:12,330 - root -INFO - forcing the user to write a letter
+2021-01-20 09:14:12,330 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:14:12,330 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:14:12,331 - root -INFO - transforming the list to a string
+2021-01-20 09:14:12,331 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:14:12,331 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:14:12,331 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:14:12,331 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:14:12,331 - root -INFO - display the wrong letter
+2021-01-20 09:14:12,331 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:14:27,355 - root -INFO - This an info message
+2021-01-20 09:14:27,355 - root -ERROR - this action is an error
+2021-01-20 09:14:27,355 - root -INFO - Reading file : start
+2021-01-20 09:14:27,378 - root -INFO - reading file : end
+2021-01-20 09:14:27,378 - root -INFO - Choosing random word : start
+2021-01-20 09:14:27,378 - root -INFO - Choosing random word : end
+2021-01-20 09:14:27,378 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:14:27,378 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:14:27,378 - root -INFO - start of game
+2021-01-20 09:14:29,230 - root -INFO - user chose a letter
+2021-01-20 09:14:29,231 - root -INFO - forcing the user to write a letter
+2021-01-20 09:14:29,231 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:14:29,231 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:14:29,231 - root -INFO - transforming the list to a string
+2021-01-20 09:14:29,231 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:14:29,231 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:14:29,231 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:14:29,232 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:14:29,232 - root -INFO - display the wrong letter
+2021-01-20 09:14:29,232 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:17,540 - root -INFO - This an info message
+2021-01-20 09:27:17,540 - root -ERROR - this action is an error
+2021-01-20 09:27:17,541 - root -INFO - Reading file : start
+2021-01-20 09:27:17,580 - root -INFO - reading file : end
+2021-01-20 09:27:17,580 - root -INFO - Choosing random word : start
+2021-01-20 09:27:17,580 - root -INFO - Choosing random word : end
+2021-01-20 09:27:17,580 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:27:17,580 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:27:17,580 - root -INFO - start of game
+2021-01-20 09:27:19,731 - root -INFO - user chose a letter
+2021-01-20 09:27:19,731 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:19,731 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:19,731 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:19,731 - root -INFO - transforming the list to a string
+2021-01-20 09:27:19,731 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:19,732 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:19,732 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:19,732 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:19,732 - root -INFO - display the wrong letter
+2021-01-20 09:27:19,732 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:19,732 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:27:26,828 - root -INFO - user chose a letter
+2021-01-20 09:27:26,828 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:26,828 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:26,828 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:26,829 - root -INFO - transforming the list to a string
+2021-01-20 09:27:26,829 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:26,829 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:26,829 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:26,830 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:26,830 - root -INFO - display the wrong letter
+2021-01-20 09:27:26,830 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:26,830 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:27:27,720 - root -INFO - user chose a letter
+2021-01-20 09:27:27,720 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:27,720 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:27,720 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:27,720 - root -INFO - transforming the list to a string
+2021-01-20 09:27:27,720 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:27,721 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:27,721 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:27,721 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:27,721 - root -INFO - display the wrong letter
+2021-01-20 09:27:27,721 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:27,721 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:27:28,663 - root -INFO - user chose a letter
+2021-01-20 09:27:28,664 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:28,664 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:28,664 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:28,664 - root -INFO - transforming the list to a string
+2021-01-20 09:27:28,664 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:28,664 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:28,665 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:28,665 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:28,665 - root -INFO - display the wrong letter
+2021-01-20 09:27:28,665 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:28,665 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:27:29,264 - root -INFO - user chose a letter
+2021-01-20 09:27:29,264 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:29,264 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:29,264 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:29,264 - root -INFO - transforming the list to a string
+2021-01-20 09:27:29,264 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:29,264 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:29,265 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:29,265 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:29,265 - root -INFO - display the wrong letter
+2021-01-20 09:27:29,265 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:27:29,265 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:27:30,516 - root -INFO - user chose a letter
+2021-01-20 09:27:30,516 - root -INFO - forcing the user to write a letter
+2021-01-20 09:27:30,516 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:27:30,516 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:27:30,516 - root -INFO - transforming the list to a string
+2021-01-20 09:27:30,516 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:30,516 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:27:30,517 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:27:30,517 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:27:30,517 - root -INFO - display the wrong letter
+2021-01-20 09:27:30,517 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:24,011 - root -INFO - This an info message
+2021-01-20 09:32:24,011 - root -ERROR - this action is an error
+2021-01-20 09:32:24,012 - root -INFO - Reading file : start
+2021-01-20 09:32:24,036 - root -INFO - reading file : end
+2021-01-20 09:32:24,036 - root -INFO - Choosing random word : start
+2021-01-20 09:32:24,036 - root -INFO - Choosing random word : end
+2021-01-20 09:32:24,036 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:32:24,037 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:32:24,037 - root -INFO - start of game
+2021-01-20 09:32:27,517 - root -INFO - user chose a letter
+2021-01-20 09:32:27,517 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:27,517 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:27,517 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:27,518 - root -INFO - transforming the list to a string
+2021-01-20 09:32:27,518 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:27,518 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:27,518 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:27,518 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:27,519 - root -INFO - display the wrong letter
+2021-01-20 09:32:27,519 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:36,341 - root -INFO - This an info message
+2021-01-20 09:32:36,341 - root -ERROR - this action is an error
+2021-01-20 09:32:36,341 - root -INFO - Reading file : start
+2021-01-20 09:32:36,366 - root -INFO - reading file : end
+2021-01-20 09:32:36,366 - root -INFO - Choosing random word : start
+2021-01-20 09:32:36,366 - root -INFO - Choosing random word : end
+2021-01-20 09:32:36,366 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:32:36,366 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:32:36,366 - root -INFO - start of game
+2021-01-20 09:32:40,050 - root -INFO - user chose a letter
+2021-01-20 09:32:40,050 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:40,050 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:40,051 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:40,051 - root -INFO - transforming the list to a string
+2021-01-20 09:32:40,051 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:40,051 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:40,052 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:40,052 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:40,052 - root -INFO - display the wrong letter
+2021-01-20 09:32:40,052 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:40,052 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:32:42,351 - root -INFO - user chose a letter
+2021-01-20 09:32:42,352 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:42,352 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:42,352 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:42,352 - root -INFO - transforming the list to a string
+2021-01-20 09:32:42,353 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:42,353 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:42,353 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:42,353 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:42,353 - root -INFO - display the wrong letter
+2021-01-20 09:32:42,353 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:42,353 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:32:42,777 - root -INFO - user chose a letter
+2021-01-20 09:32:42,777 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:42,777 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:42,777 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:42,778 - root -INFO - transforming the list to a string
+2021-01-20 09:32:42,778 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:42,778 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:42,778 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:42,778 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:42,778 - root -INFO - display the wrong letter
+2021-01-20 09:32:42,779 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:42,779 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:32:43,127 - root -INFO - user chose a letter
+2021-01-20 09:32:43,127 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:43,128 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:43,128 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:43,128 - root -INFO - transforming the list to a string
+2021-01-20 09:32:43,128 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,128 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,128 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:43,128 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:43,128 - root -INFO - display the wrong letter
+2021-01-20 09:32:43,129 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:43,129 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:32:43,394 - root -INFO - user chose a letter
+2021-01-20 09:32:43,394 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:43,395 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:43,395 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:43,395 - root -INFO - transforming the list to a string
+2021-01-20 09:32:43,395 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,395 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,395 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:43,395 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:43,395 - root -INFO - display the wrong letter
+2021-01-20 09:32:43,396 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:43,396 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:32:43,722 - root -INFO - user chose a letter
+2021-01-20 09:32:43,722 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:43,722 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:43,722 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:43,723 - root -INFO - transforming the list to a string
+2021-01-20 09:32:43,723 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,723 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:43,723 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:43,723 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:43,723 - root -INFO - display the wrong letter
+2021-01-20 09:32:43,723 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:32:47,166 - root -INFO - This an info message
+2021-01-20 09:32:47,166 - root -ERROR - this action is an error
+2021-01-20 09:32:47,166 - root -INFO - Reading file : start
+2021-01-20 09:32:47,191 - root -INFO - reading file : end
+2021-01-20 09:32:47,191 - root -INFO - Choosing random word : start
+2021-01-20 09:32:47,191 - root -INFO - Choosing random word : end
+2021-01-20 09:32:47,192 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:32:47,192 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:32:47,192 - root -INFO - start of game
+2021-01-20 09:32:48,786 - root -INFO - user chose a letter
+2021-01-20 09:32:48,786 - root -INFO - forcing the user to write a letter
+2021-01-20 09:32:48,786 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:32:48,787 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:32:48,787 - root -INFO - transforming the list to a string
+2021-01-20 09:32:48,787 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:48,787 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:32:48,787 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:32:48,787 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:32:48,787 - root -INFO - display the wrong letter
+2021-01-20 09:32:48,787 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:33:18,732 - root -INFO - This an info message
+2021-01-20 09:33:18,732 - root -ERROR - this action is an error
+2021-01-20 09:33:18,732 - root -INFO - Reading file : start
+2021-01-20 09:33:18,757 - root -INFO - reading file : end
+2021-01-20 09:33:18,757 - root -INFO - Choosing random word : start
+2021-01-20 09:33:18,757 - root -INFO - Choosing random word : end
+2021-01-20 09:33:18,757 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:33:18,757 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:33:18,757 - root -INFO - start of game
+2021-01-20 09:33:20,350 - root -INFO - user chose a letter
+2021-01-20 09:33:20,350 - root -INFO - forcing the user to write a letter
+2021-01-20 09:33:20,350 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:33:20,350 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:33:20,350 - root -INFO - transforming the list to a string
+2021-01-20 09:33:20,350 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:33:20,350 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:33:20,351 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:33:20,351 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:33:20,351 - root -INFO - display the wrong letter
+2021-01-20 09:33:20,351 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:36:51,541 - root -INFO - This an info message
+2021-01-20 09:36:51,541 - root -ERROR - this action is an error
+2021-01-20 09:36:51,541 - root -INFO - Reading file : start
+2021-01-20 09:36:51,567 - root -INFO - reading file : end
+2021-01-20 09:36:51,567 - root -INFO - Choosing random word : start
+2021-01-20 09:36:51,568 - root -INFO - Choosing random word : end
+2021-01-20 09:36:51,568 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:36:51,568 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:36:51,569 - root -INFO - start of game
+2021-01-20 09:36:53,410 - root -INFO - user chose a letter
+2021-01-20 09:36:53,410 - root -INFO - forcing the user to write a letter
+2021-01-20 09:36:53,410 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:36:53,411 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:36:53,411 - root -INFO - transforming the list to a string
+2021-01-20 09:36:53,411 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:36:53,411 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:36:53,411 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:36:53,412 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:36:53,412 - root -INFO - display the wrong letter
+2021-01-20 09:36:53,412 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:37:05,549 - root -INFO - This an info message
+2021-01-20 09:37:05,549 - root -ERROR - this action is an error
+2021-01-20 09:37:05,549 - root -INFO - Reading file : start
+2021-01-20 09:37:05,572 - root -INFO - reading file : end
+2021-01-20 09:37:05,572 - root -INFO - Choosing random word : start
+2021-01-20 09:37:05,572 - root -INFO - Choosing random word : end
+2021-01-20 09:37:05,572 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:37:05,572 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:37:05,572 - root -INFO - start of game
+2021-01-20 09:37:07,677 - root -INFO - user chose a letter
+2021-01-20 09:37:07,677 - root -INFO - forcing the user to write a letter
+2021-01-20 09:37:07,677 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:37:07,677 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:37:07,678 - root -INFO - transforming the list to a string
+2021-01-20 09:37:07,678 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:07,678 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:07,678 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:37:07,678 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:37:07,678 - root -INFO - display the wrong letter
+2021-01-20 09:37:07,679 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:37:09,573 - root -INFO - This an info message
+2021-01-20 09:37:09,573 - root -ERROR - this action is an error
+2021-01-20 09:37:09,573 - root -INFO - Reading file : start
+2021-01-20 09:37:09,598 - root -INFO - reading file : end
+2021-01-20 09:37:09,598 - root -INFO - Choosing random word : start
+2021-01-20 09:37:09,598 - root -INFO - Choosing random word : end
+2021-01-20 09:37:09,598 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:37:09,598 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:37:09,598 - root -INFO - start of game
+2021-01-20 09:37:11,101 - root -INFO - user chose a letter
+2021-01-20 09:37:11,101 - root -INFO - forcing the user to write a letter
+2021-01-20 09:37:11,101 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:37:11,101 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:37:11,101 - root -INFO - transforming the list to a string
+2021-01-20 09:37:11,102 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:11,102 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:11,102 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:37:11,102 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:37:11,102 - root -INFO - display the wrong letter
+2021-01-20 09:37:11,102 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:37:47,680 - root -INFO - This an info message
+2021-01-20 09:37:47,680 - root -ERROR - this action is an error
+2021-01-20 09:37:47,680 - root -INFO - Reading file : start
+2021-01-20 09:37:47,707 - root -INFO - reading file : end
+2021-01-20 09:37:47,708 - root -INFO - Choosing random word : start
+2021-01-20 09:37:47,708 - root -INFO - Choosing random word : end
+2021-01-20 09:37:47,708 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 09:37:47,708 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 09:37:47,708 - root -INFO - start of game
+2021-01-20 09:37:49,272 - root -INFO - user chose a letter
+2021-01-20 09:37:49,272 - root -INFO - forcing the user to write a letter
+2021-01-20 09:37:49,272 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:37:49,272 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:37:49,273 - root -INFO - transforming the list to a string
+2021-01-20 09:37:49,273 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:49,273 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:49,273 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:37:49,273 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:37:49,273 - root -INFO - display the wrong letter
+2021-01-20 09:37:49,273 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:37:49,273 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:37:56,028 - root -INFO - user chose a letter
+2021-01-20 09:37:56,029 - root -INFO - forcing the user to write a letter
+2021-01-20 09:37:56,029 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:37:56,029 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:37:56,029 - root -INFO - transforming the list to a string
+2021-01-20 09:37:56,029 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:56,029 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:37:56,030 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:37:56,030 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:37:56,030 - root -INFO - display the wrong letter
+2021-01-20 09:37:56,030 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:37:56,030 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 09:38:01,150 - root -INFO - user chose a letter
+2021-01-20 09:38:01,150 - root -INFO - forcing the user to write a letter
+2021-01-20 09:38:01,151 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 09:38:01,151 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 09:38:01,151 - root -INFO - transforming the list to a string
+2021-01-20 09:38:01,151 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:38:01,151 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 09:38:01,152 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 09:38:01,152 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 09:38:01,152 - root -INFO - display the wrong letter
+2021-01-20 09:38:01,152 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 09:38:01,152 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:12,666 - root -INFO - user chose a letter
+2021-01-20 10:16:12,666 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:12,667 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:12,667 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:12,668 - root -INFO - transforming the list to a string
+2021-01-20 10:16:12,668 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:12,668 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:12,668 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:12,668 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:12,668 - root -INFO - display the wrong letter
+2021-01-20 10:16:12,668 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:12,668 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:14,139 - root -INFO - user chose a letter
+2021-01-20 10:16:14,140 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:14,140 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:14,140 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:14,140 - root -INFO - transforming the list to a string
+2021-01-20 10:16:14,140 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:14,140 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:14,140 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:14,140 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:14,141 - root -INFO - display the wrong letter
+2021-01-20 10:16:14,141 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:14,141 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:31,267 - root -INFO - user chose a letter
+2021-01-20 10:16:31,268 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:31,269 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:31,269 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:31,269 - root -INFO - transforming the list to a string
+2021-01-20 10:16:31,269 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:31,269 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:31,269 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:31,269 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:31,269 - root -INFO - display the wrong letter
+2021-01-20 10:16:31,270 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:31,270 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:33,158 - root -INFO - user chose a letter
+2021-01-20 10:16:33,158 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:33,158 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:33,159 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:33,159 - root -INFO - transforming the list to a string
+2021-01-20 10:16:33,159 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:33,159 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:33,159 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:33,159 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:33,159 - root -INFO - display the wrong letter
+2021-01-20 10:16:33,159 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:33,160 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:37,161 - root -INFO - This an info message
+2021-01-20 10:16:37,161 - root -ERROR - this action is an error
+2021-01-20 10:16:37,161 - root -INFO - Reading file : start
+2021-01-20 10:16:37,185 - root -INFO - reading file : end
+2021-01-20 10:16:37,185 - root -INFO - Choosing random word : start
+2021-01-20 10:16:37,185 - root -INFO - Choosing random word : end
+2021-01-20 10:16:37,185 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:16:37,185 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:16:37,185 - root -INFO - start of game
+2021-01-20 10:16:39,932 - root -INFO - user chose a letter
+2021-01-20 10:16:39,932 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:39,932 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:39,932 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:39,933 - root -INFO - transforming the list to a string
+2021-01-20 10:16:39,933 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:39,933 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:39,933 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:39,934 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:39,934 - root -INFO - display the wrong letter
+2021-01-20 10:16:39,934 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:39,934 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:41,582 - root -INFO - user chose a letter
+2021-01-20 10:16:41,583 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:41,583 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:41,583 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:41,583 - root -INFO - transforming the list to a string
+2021-01-20 10:16:41,583 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:41,583 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:41,583 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:41,584 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:41,584 - root -INFO - display the wrong letter
+2021-01-20 10:16:41,584 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:41,584 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:43,378 - root -INFO - user chose a letter
+2021-01-20 10:16:43,378 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:43,379 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:43,379 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:43,379 - root -INFO - transforming the list to a string
+2021-01-20 10:16:43,379 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:43,379 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:43,380 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:43,380 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:43,380 - root -INFO - display the wrong letter
+2021-01-20 10:16:43,380 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:43,380 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:45,257 - root -INFO - user chose a letter
+2021-01-20 10:16:45,257 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:45,257 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:45,257 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:45,258 - root -INFO - transforming the list to a string
+2021-01-20 10:16:45,258 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:45,258 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:45,258 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:45,258 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:45,258 - root -INFO - display the wrong letter
+2021-01-20 10:16:45,258 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:45,258 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:46,208 - root -INFO - user chose a letter
+2021-01-20 10:16:46,208 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:46,208 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:46,208 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:46,208 - root -INFO - transforming the list to a string
+2021-01-20 10:16:46,208 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:46,209 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:46,209 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:46,209 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:46,209 - root -INFO - display the wrong letter
+2021-01-20 10:16:46,209 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:46,209 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:47,149 - root -INFO - user chose a letter
+2021-01-20 10:16:47,149 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:47,149 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:47,149 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:47,150 - root -INFO - transforming the list to a string
+2021-01-20 10:16:47,150 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:47,150 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:47,150 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:47,150 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:47,150 - root -INFO - display the wrong letter
+2021-01-20 10:16:47,150 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:47,150 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:48,321 - root -INFO - user chose a letter
+2021-01-20 10:16:48,322 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:48,322 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:48,322 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:48,322 - root -INFO - transforming the list to a string
+2021-01-20 10:16:48,322 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:48,322 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:48,322 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:48,322 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:48,322 - root -INFO - display the wrong letter
+2021-01-20 10:16:48,323 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:48,323 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:16:49,119 - root -INFO - user chose a letter
+2021-01-20 10:16:49,119 - root -INFO - forcing the user to write a letter
+2021-01-20 10:16:49,119 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:16:49,119 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:16:49,120 - root -INFO - transforming the list to a string
+2021-01-20 10:16:49,120 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:49,120 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:16:49,120 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:16:49,120 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:16:49,120 - root -INFO - display the wrong letter
+2021-01-20 10:16:49,120 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:16:49,120 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:17:20,574 - root -INFO - This an info message
+2021-01-20 10:17:20,575 - root -ERROR - this action is an error
+2021-01-20 10:17:20,575 - root -INFO - Reading file : start
+2021-01-20 10:17:20,599 - root -INFO - reading file : end
+2021-01-20 10:17:20,599 - root -INFO - Choosing random word : start
+2021-01-20 10:17:20,599 - root -INFO - Choosing random word : end
+2021-01-20 10:17:20,599 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:17:20,599 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:17:20,600 - root -INFO - start of game
+2021-01-20 10:17:22,278 - root -INFO - user chose a letter
+2021-01-20 10:17:22,279 - root -INFO - forcing the user to write a letter
+2021-01-20 10:17:22,279 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:17:22,279 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:17:22,279 - root -INFO - transforming the list to a string
+2021-01-20 10:17:22,279 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:22,279 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:22,279 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:17:22,279 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:17:22,280 - root -INFO - display the wrong letter
+2021-01-20 10:17:22,280 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:17:22,280 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:17:25,389 - root -INFO - user chose a letter
+2021-01-20 10:17:25,389 - root -INFO - forcing the user to write a letter
+2021-01-20 10:17:25,390 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:17:25,390 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:17:25,390 - root -INFO - transforming the list to a string
+2021-01-20 10:17:25,390 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:25,390 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:25,390 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:17:25,390 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:17:25,391 - root -INFO - display the wrong letter
+2021-01-20 10:17:25,391 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:17:25,391 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:17:38,630 - root -INFO - This an info message
+2021-01-20 10:17:38,630 - root -ERROR - this action is an error
+2021-01-20 10:17:38,630 - root -INFO - Reading file : start
+2021-01-20 10:17:38,655 - root -INFO - reading file : end
+2021-01-20 10:17:38,655 - root -INFO - Choosing random word : start
+2021-01-20 10:17:38,655 - root -INFO - Choosing random word : end
+2021-01-20 10:17:38,655 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:17:38,655 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:17:38,656 - root -INFO - start of game
+2021-01-20 10:17:40,006 - root -INFO - user chose a letter
+2021-01-20 10:17:40,006 - root -INFO - forcing the user to write a letter
+2021-01-20 10:17:40,007 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:17:40,007 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:17:40,007 - root -INFO - transforming the list to a string
+2021-01-20 10:17:40,007 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:40,008 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:17:40,008 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:17:40,008 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:17:40,008 - root -INFO - display the wrong letter
+2021-01-20 10:17:40,009 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:18:42,875 - root -INFO - This an info message
+2021-01-20 10:18:42,875 - root -ERROR - this action is an error
+2021-01-20 10:18:42,875 - root -INFO - Reading file : start
+2021-01-20 10:18:42,899 - root -INFO - reading file : end
+2021-01-20 10:18:42,899 - root -INFO - Choosing random word : start
+2021-01-20 10:18:42,899 - root -INFO - Choosing random word : end
+2021-01-20 10:18:42,899 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:18:42,899 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:18:42,899 - root -INFO - start of game
+2021-01-20 10:18:45,187 - root -INFO - user chose a letter
+2021-01-20 10:18:45,187 - root -INFO - forcing the user to write a letter
+2021-01-20 10:18:45,187 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:18:45,187 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:18:45,187 - root -INFO - transforming the list to a string
+2021-01-20 10:18:45,188 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:45,188 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:45,188 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:18:45,188 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:18:45,188 - root -INFO - display the wrong letter
+2021-01-20 10:18:45,188 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:18:45,188 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:18:47,438 - root -INFO - user chose a letter
+2021-01-20 10:18:47,439 - root -INFO - forcing the user to write a letter
+2021-01-20 10:18:47,439 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:18:47,439 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:18:47,439 - root -INFO - transforming the list to a string
+2021-01-20 10:18:47,440 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:47,440 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:47,440 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:18:47,440 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:18:47,440 - root -INFO - display the wrong letter
+2021-01-20 10:18:47,440 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:18:47,440 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:18:49,414 - root -INFO - user chose a letter
+2021-01-20 10:18:49,414 - root -INFO - forcing the user to write a letter
+2021-01-20 10:18:49,414 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:18:49,414 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:18:49,414 - root -INFO - transforming the list to a string
+2021-01-20 10:18:49,414 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:49,414 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:18:49,415 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:18:59,206 - root -INFO - This an info message
+2021-01-20 10:18:59,207 - root -ERROR - this action is an error
+2021-01-20 10:18:59,207 - root -INFO - Reading file : start
+2021-01-20 10:18:59,231 - root -INFO - reading file : end
+2021-01-20 10:18:59,231 - root -INFO - Choosing random word : start
+2021-01-20 10:18:59,231 - root -INFO - Choosing random word : end
+2021-01-20 10:18:59,231 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:18:59,231 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:18:59,232 - root -INFO - start of game
+2021-01-20 10:19:03,662 - root -INFO - user chose a letter
+2021-01-20 10:19:03,663 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:03,663 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:03,663 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:03,663 - root -INFO - transforming the list to a string
+2021-01-20 10:19:03,664 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:03,664 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:03,664 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:03,665 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:03,665 - root -INFO - display the wrong letter
+2021-01-20 10:19:03,665 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:03,665 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:06,831 - root -INFO - user chose a letter
+2021-01-20 10:19:06,832 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:06,832 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:06,832 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:06,832 - root -INFO - transforming the list to a string
+2021-01-20 10:19:06,832 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:06,833 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:06,833 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:06,833 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:06,833 - root -INFO - display the wrong letter
+2021-01-20 10:19:06,833 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:06,833 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:10,035 - root -INFO - user chose a letter
+2021-01-20 10:19:10,038 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:10,038 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:10,038 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:10,038 - root -INFO - transforming the list to a string
+2021-01-20 10:19:10,038 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:10,038 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:10,038 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:10,039 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:10,039 - root -INFO - display the wrong letter
+2021-01-20 10:19:10,039 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:10,039 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:10,536 - root -INFO - user chose a letter
+2021-01-20 10:19:10,537 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:10,537 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:10,537 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:10,537 - root -INFO - transforming the list to a string
+2021-01-20 10:19:10,537 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:10,537 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:10,537 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:10,537 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:10,538 - root -INFO - display the wrong letter
+2021-01-20 10:19:10,538 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:10,538 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:11,709 - root -INFO - user chose a letter
+2021-01-20 10:19:11,709 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:11,710 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:11,710 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:11,710 - root -INFO - transforming the list to a string
+2021-01-20 10:19:11,710 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:11,710 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:11,710 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:11,710 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:11,710 - root -INFO - display the wrong letter
+2021-01-20 10:19:11,711 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:11,711 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:12,318 - root -INFO - user chose a letter
+2021-01-20 10:19:12,318 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:12,319 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:12,319 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:12,319 - root -INFO - transforming the list to a string
+2021-01-20 10:19:12,319 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:12,319 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:12,319 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:12,319 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:12,319 - root -INFO - display the wrong letter
+2021-01-20 10:19:12,319 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:12,320 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:13,242 - root -INFO - user chose a letter
+2021-01-20 10:19:13,243 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:13,243 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:13,243 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:13,243 - root -INFO - transforming the list to a string
+2021-01-20 10:19:13,243 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:13,243 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:13,243 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:13,243 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:19:13,243 - root -INFO - display the wrong letter
+2021-01-20 10:19:13,243 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:19:13,244 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:19:31,349 - root -INFO - This an info message
+2021-01-20 10:19:31,349 - root -ERROR - this action is an error
+2021-01-20 10:19:31,349 - root -INFO - Reading file : start
+2021-01-20 10:19:31,375 - root -INFO - reading file : end
+2021-01-20 10:19:31,375 - root -INFO - Choosing random word : start
+2021-01-20 10:19:31,375 - root -INFO - Choosing random word : end
+2021-01-20 10:19:31,375 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:19:31,375 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:19:31,376 - root -INFO - start of game
+2021-01-20 10:19:33,076 - root -INFO - user chose a letter
+2021-01-20 10:19:33,076 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:33,076 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:33,076 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:33,077 - root -INFO - transforming the list to a string
+2021-01-20 10:19:33,077 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:33,077 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:33,077 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:37,369 - root -INFO - This an info message
+2021-01-20 10:19:37,370 - root -ERROR - this action is an error
+2021-01-20 10:19:37,370 - root -INFO - Reading file : start
+2021-01-20 10:19:37,397 - root -INFO - reading file : end
+2021-01-20 10:19:37,398 - root -INFO - Choosing random word : start
+2021-01-20 10:19:37,398 - root -INFO - Choosing random word : end
+2021-01-20 10:19:37,398 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:19:37,398 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:19:37,398 - root -INFO - start of game
+2021-01-20 10:19:38,513 - root -INFO - user chose a letter
+2021-01-20 10:19:38,513 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:38,513 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:38,513 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:38,513 - root -INFO - transforming the list to a string
+2021-01-20 10:19:38,514 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:38,514 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:38,514 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:19:54,873 - root -INFO - This an info message
+2021-01-20 10:19:54,873 - root -ERROR - this action is an error
+2021-01-20 10:19:54,873 - root -INFO - Reading file : start
+2021-01-20 10:19:54,898 - root -INFO - reading file : end
+2021-01-20 10:19:54,898 - root -INFO - Choosing random word : start
+2021-01-20 10:19:54,898 - root -INFO - Choosing random word : end
+2021-01-20 10:19:54,898 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:19:54,899 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:19:54,899 - root -INFO - start of game
+2021-01-20 10:19:56,230 - root -INFO - user chose a letter
+2021-01-20 10:19:56,231 - root -INFO - forcing the user to write a letter
+2021-01-20 10:19:56,231 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:19:56,231 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:19:56,231 - root -INFO - transforming the list to a string
+2021-01-20 10:19:56,231 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:56,231 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:19:56,231 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:20:09,842 - root -INFO - This an info message
+2021-01-20 10:20:09,842 - root -ERROR - this action is an error
+2021-01-20 10:20:09,842 - root -INFO - Reading file : start
+2021-01-20 10:20:09,866 - root -INFO - reading file : end
+2021-01-20 10:20:09,867 - root -INFO - Choosing random word : start
+2021-01-20 10:20:09,867 - root -INFO - Choosing random word : end
+2021-01-20 10:20:09,867 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:20:09,867 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:20:09,867 - root -INFO - start of game
+2021-01-20 10:20:11,268 - root -INFO - user chose a letter
+2021-01-20 10:20:11,269 - root -INFO - forcing the user to write a letter
+2021-01-20 10:20:11,269 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:20:11,269 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:20:11,269 - root -INFO - transforming the list to a string
+2021-01-20 10:20:11,269 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:20:11,270 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:20:11,270 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:22:51,022 - root -INFO - This an info message
+2021-01-20 10:22:51,022 - root -ERROR - this action is an error
+2021-01-20 10:22:51,022 - root -INFO - Reading file : start
+2021-01-20 10:22:51,049 - root -INFO - reading file : end
+2021-01-20 10:22:51,049 - root -INFO - Choosing random word : start
+2021-01-20 10:22:51,049 - root -INFO - Choosing random word : end
+2021-01-20 10:22:51,050 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:22:51,050 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:22:51,050 - root -INFO - start of game
+2021-01-20 10:22:55,144 - root -INFO - user chose a letter
+2021-01-20 10:22:55,144 - root -INFO - forcing the user to write a letter
+2021-01-20 10:22:55,144 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:22:55,145 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:22:55,145 - root -INFO - transforming the list to a string
+2021-01-20 10:22:55,145 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:22:55,145 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:22:55,145 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:12,183 - root -INFO - This an info message
+2021-01-20 10:23:12,183 - root -ERROR - this action is an error
+2021-01-20 10:23:12,183 - root -INFO - Reading file : start
+2021-01-20 10:23:12,209 - root -INFO - reading file : end
+2021-01-20 10:23:12,209 - root -INFO - Choosing random word : start
+2021-01-20 10:23:12,209 - root -INFO - Choosing random word : end
+2021-01-20 10:23:12,209 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:23:12,209 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:23:12,209 - root -INFO - start of game
+2021-01-20 10:23:14,404 - root -INFO - user chose a letter
+2021-01-20 10:23:14,404 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:14,405 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:14,405 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:14,405 - root -INFO - transforming the list to a string
+2021-01-20 10:23:14,405 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:14,405 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:14,406 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:14,406 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:14,406 - root -INFO - display the wrong letter
+2021-01-20 10:23:14,406 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:14,406 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:19,478 - root -INFO - user chose a letter
+2021-01-20 10:23:19,478 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:19,479 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:19,479 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:19,479 - root -INFO - transforming the list to a string
+2021-01-20 10:23:19,479 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:19,479 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:19,479 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:19,480 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:19,480 - root -INFO - display the wrong letter
+2021-01-20 10:23:19,480 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:19,480 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:20,347 - root -INFO - user chose a letter
+2021-01-20 10:23:20,347 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:20,348 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:20,348 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:20,348 - root -INFO - transforming the list to a string
+2021-01-20 10:23:20,348 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:20,348 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:20,348 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:20,348 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:20,348 - root -INFO - display the wrong letter
+2021-01-20 10:23:20,349 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:20,349 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:20,932 - root -INFO - user chose a letter
+2021-01-20 10:23:20,932 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:20,933 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:20,933 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:20,933 - root -INFO - transforming the list to a string
+2021-01-20 10:23:20,933 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:20,933 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:20,933 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:20,933 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:20,933 - root -INFO - display the wrong letter
+2021-01-20 10:23:20,934 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:20,934 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:21,787 - root -INFO - user chose a letter
+2021-01-20 10:23:21,787 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:21,788 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:21,788 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:21,788 - root -INFO - transforming the list to a string
+2021-01-20 10:23:21,788 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:21,788 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:21,788 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:21,788 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:21,788 - root -INFO - display the wrong letter
+2021-01-20 10:23:21,789 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:21,789 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:23,769 - root -INFO - user chose a letter
+2021-01-20 10:23:23,769 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:23,770 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:23,770 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:23,770 - root -INFO - transforming the list to a string
+2021-01-20 10:23:23,770 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:23,771 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:23,771 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:23:23,771 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:23:23,771 - root -INFO - display the wrong letter
+2021-01-20 10:23:23,771 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:23:23,771 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:23:52,165 - root -INFO - This an info message
+2021-01-20 10:23:52,166 - root -ERROR - this action is an error
+2021-01-20 10:23:52,166 - root -INFO - Reading file : start
+2021-01-20 10:23:52,190 - root -INFO - reading file : end
+2021-01-20 10:23:52,190 - root -INFO - Choosing random word : start
+2021-01-20 10:23:52,191 - root -INFO - Choosing random word : end
+2021-01-20 10:23:52,191 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:23:52,191 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:23:52,191 - root -INFO - start of game
+2021-01-20 10:23:53,426 - root -INFO - user chose a letter
+2021-01-20 10:23:53,426 - root -INFO - forcing the user to write a letter
+2021-01-20 10:23:53,426 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:23:53,426 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:23:53,426 - root -INFO - transforming the list to a string
+2021-01-20 10:23:53,427 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:53,427 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:23:53,427 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:24:31,276 - root -INFO - This an info message
+2021-01-20 10:24:31,276 - root -ERROR - this action is an error
+2021-01-20 10:24:31,276 - root -INFO - Reading file : start
+2021-01-20 10:24:31,301 - root -INFO - reading file : end
+2021-01-20 10:24:31,301 - root -INFO - Choosing random word : start
+2021-01-20 10:24:31,301 - root -INFO - Choosing random word : end
+2021-01-20 10:24:31,301 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:24:31,301 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:24:31,301 - root -INFO - start of game
+2021-01-20 10:24:33,168 - root -INFO - user chose a letter
+2021-01-20 10:24:33,168 - root -INFO - forcing the user to write a letter
+2021-01-20 10:24:33,168 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:24:33,168 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:24:33,169 - root -INFO - transforming the list to a string
+2021-01-20 10:24:33,169 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:33,169 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:33,169 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:24:42,328 - root -INFO - This an info message
+2021-01-20 10:24:42,328 - root -ERROR - this action is an error
+2021-01-20 10:24:42,328 - root -INFO - Reading file : start
+2021-01-20 10:24:42,358 - root -INFO - reading file : end
+2021-01-20 10:24:42,358 - root -INFO - Choosing random word : start
+2021-01-20 10:24:42,358 - root -INFO - Choosing random word : end
+2021-01-20 10:24:42,358 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:24:42,358 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:24:42,358 - root -INFO - start of game
+2021-01-20 10:24:43,552 - root -INFO - user chose a letter
+2021-01-20 10:24:43,552 - root -INFO - forcing the user to write a letter
+2021-01-20 10:24:43,552 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:24:43,552 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:24:43,552 - root -INFO - transforming the list to a string
+2021-01-20 10:24:43,553 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:43,553 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:43,553 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:24:43,553 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:24:43,553 - root -INFO - display the wrong letter
+2021-01-20 10:24:43,553 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:24:43,553 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:24:45,494 - root -INFO - user chose a letter
+2021-01-20 10:24:45,494 - root -INFO - forcing the user to write a letter
+2021-01-20 10:24:45,494 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:24:45,494 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:24:45,495 - root -INFO - transforming the list to a string
+2021-01-20 10:24:45,495 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:45,495 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:24:45,495 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:40,488 - root -INFO - This an info message
+2021-01-20 10:25:40,489 - root -ERROR - this action is an error
+2021-01-20 10:25:40,489 - root -INFO - Reading file : start
+2021-01-20 10:25:40,514 - root -INFO - reading file : end
+2021-01-20 10:25:40,514 - root -INFO - Choosing random word : start
+2021-01-20 10:25:40,514 - root -INFO - Choosing random word : end
+2021-01-20 10:25:40,515 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:25:40,515 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:25:40,515 - root -INFO - start of game
+2021-01-20 10:25:42,178 - root -INFO - user chose a letter
+2021-01-20 10:25:42,178 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:42,178 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:42,178 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:42,178 - root -INFO - transforming the list to a string
+2021-01-20 10:25:42,178 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:42,179 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:42,179 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:42,179 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:42,179 - root -INFO - display the wrong letter
+2021-01-20 10:25:42,179 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:42,179 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:44,011 - root -INFO - user chose a letter
+2021-01-20 10:25:44,011 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:44,011 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:44,011 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:44,012 - root -INFO - transforming the list to a string
+2021-01-20 10:25:44,012 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,012 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,012 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:44,012 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:44,012 - root -INFO - display the wrong letter
+2021-01-20 10:25:44,012 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:44,012 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:44,431 - root -INFO - user chose a letter
+2021-01-20 10:25:44,432 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:44,432 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:44,432 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:44,432 - root -INFO - transforming the list to a string
+2021-01-20 10:25:44,432 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,432 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,433 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:44,433 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:44,433 - root -INFO - display the wrong letter
+2021-01-20 10:25:44,433 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:44,433 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:44,813 - root -INFO - user chose a letter
+2021-01-20 10:25:44,813 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:44,813 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:44,813 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:44,814 - root -INFO - transforming the list to a string
+2021-01-20 10:25:44,814 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,814 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:44,814 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:44,814 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:44,814 - root -INFO - display the wrong letter
+2021-01-20 10:25:44,814 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:44,814 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:45,251 - root -INFO - user chose a letter
+2021-01-20 10:25:45,251 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:45,251 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:45,251 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:45,252 - root -INFO - transforming the list to a string
+2021-01-20 10:25:45,252 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:45,252 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:45,252 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:45,252 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:45,252 - root -INFO - display the wrong letter
+2021-01-20 10:25:45,252 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:45,253 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:47,502 - root -INFO - This an info message
+2021-01-20 10:25:47,502 - root -ERROR - this action is an error
+2021-01-20 10:25:47,503 - root -INFO - Reading file : start
+2021-01-20 10:25:47,527 - root -INFO - reading file : end
+2021-01-20 10:25:47,527 - root -INFO - Choosing random word : start
+2021-01-20 10:25:47,527 - root -INFO - Choosing random word : end
+2021-01-20 10:25:47,527 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:25:47,527 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:25:47,527 - root -INFO - start of game
+2021-01-20 10:25:48,877 - root -INFO - user chose a letter
+2021-01-20 10:25:48,877 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:48,877 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:48,878 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:48,878 - root -INFO - transforming the list to a string
+2021-01-20 10:25:48,878 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:48,878 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:48,878 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:48,878 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:48,879 - root -INFO - display the wrong letter
+2021-01-20 10:25:48,879 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:48,879 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:50,392 - root -INFO - user chose a letter
+2021-01-20 10:25:50,392 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:50,392 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:50,392 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:50,393 - root -INFO - transforming the list to a string
+2021-01-20 10:25:50,393 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:50,393 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:50,393 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:50,393 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:50,393 - root -INFO - display the wrong letter
+2021-01-20 10:25:50,393 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:50,393 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:51,324 - root -INFO - user chose a letter
+2021-01-20 10:25:51,324 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:51,324 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:51,324 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:51,325 - root -INFO - transforming the list to a string
+2021-01-20 10:25:51,325 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:51,325 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:51,325 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:51,325 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:51,325 - root -INFO - display the wrong letter
+2021-01-20 10:25:51,325 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:51,325 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:52,292 - root -INFO - user chose a letter
+2021-01-20 10:25:52,292 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:52,292 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:52,292 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:52,293 - root -INFO - transforming the list to a string
+2021-01-20 10:25:52,293 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:52,293 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:52,293 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:52,293 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:52,293 - root -INFO - display the wrong letter
+2021-01-20 10:25:52,293 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:52,293 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:53,299 - root -INFO - user chose a letter
+2021-01-20 10:25:53,299 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:53,299 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:53,299 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:53,299 - root -INFO - transforming the list to a string
+2021-01-20 10:25:53,300 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:53,300 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:53,300 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:53,300 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:53,300 - root -INFO - display the wrong letter
+2021-01-20 10:25:53,300 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:53,300 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:54,268 - root -INFO - user chose a letter
+2021-01-20 10:25:54,268 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:54,268 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:54,268 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:54,269 - root -INFO - transforming the list to a string
+2021-01-20 10:25:54,269 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:54,269 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:54,269 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:54,269 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:54,269 - root -INFO - display the wrong letter
+2021-01-20 10:25:54,269 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:54,269 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:54,930 - root -INFO - user chose a letter
+2021-01-20 10:25:54,930 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:54,930 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:54,930 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:54,931 - root -INFO - transforming the list to a string
+2021-01-20 10:25:54,931 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:54,931 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:54,931 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:54,931 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:54,931 - root -INFO - display the wrong letter
+2021-01-20 10:25:54,931 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:54,931 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:25:57,000 - root -INFO - user chose a letter
+2021-01-20 10:25:57,000 - root -INFO - forcing the user to write a letter
+2021-01-20 10:25:57,000 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:25:57,000 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:25:57,001 - root -INFO - transforming the list to a string
+2021-01-20 10:25:57,001 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:57,001 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:25:57,001 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:25:57,001 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:25:57,001 - root -INFO - display the wrong letter
+2021-01-20 10:25:57,001 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:25:57,002 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:26:00,712 - root -INFO - user chose a letter
+2021-01-20 10:26:00,712 - root -INFO - forcing the user to write a letter
+2021-01-20 10:26:00,712 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:26:00,712 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:26:00,713 - root -INFO - transforming the list to a string
+2021-01-20 10:26:00,713 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:26:00,713 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:26:00,713 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:26:00,713 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:26:00,713 - root -INFO - display the wrong letter
+2021-01-20 10:26:00,713 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:26:00,714 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:31:52,447 - root -INFO - This an info message
+2021-01-20 10:31:52,447 - root -ERROR - this action is an error
+2021-01-20 10:31:52,447 - root -INFO - Reading file : start
+2021-01-20 10:31:52,474 - root -INFO - reading file : end
+2021-01-20 10:31:52,474 - root -INFO - Choosing random word : start
+2021-01-20 10:31:52,474 - root -INFO - Choosing random word : end
+2021-01-20 10:31:52,474 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:31:52,474 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:31:52,475 - root -INFO - start of game
+2021-01-20 10:31:56,019 - root -INFO - user chose a letter
+2021-01-20 10:31:56,019 - root -INFO - forcing the user to write a letter
+2021-01-20 10:31:56,020 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:31:56,020 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:31:56,020 - root -INFO - transforming the list to a string
+2021-01-20 10:31:56,020 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:31:56,020 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:31:56,021 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:31:56,021 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:31:56,021 - root -INFO - display the wrong letter
+2021-01-20 10:31:56,021 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:31:56,021 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:55:53,612 - root -INFO - This an info message
+2021-01-20 10:55:53,613 - root -ERROR - this action is an error
+2021-01-20 10:55:53,613 - root -INFO - Reading file : start
+2021-01-20 10:55:53,642 - root -INFO - reading file : end
+2021-01-20 10:55:53,642 - root -INFO - Choosing random word : start
+2021-01-20 10:55:53,642 - root -INFO - Choosing random word : end
+2021-01-20 10:55:53,642 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:55:53,643 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:55:53,643 - root -INFO - start of game
+2021-01-20 10:55:57,294 - root -INFO - user chose a letter
+2021-01-20 10:55:57,294 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:18,477 - root -INFO - This an info message
+2021-01-20 10:56:18,477 - root -ERROR - this action is an error
+2021-01-20 10:56:18,477 - root -INFO - Reading file : start
+2021-01-20 10:56:18,505 - root -INFO - reading file : end
+2021-01-20 10:56:18,506 - root -INFO - Choosing random word : start
+2021-01-20 10:56:18,506 - root -INFO - Choosing random word : end
+2021-01-20 10:56:18,506 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:56:18,506 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:56:18,506 - root -INFO - start of game
+2021-01-20 10:56:20,414 - root -INFO - user chose a letter
+2021-01-20 10:56:20,415 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:22,899 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:22,900 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:22,900 - root -INFO - transforming the list to a string
+2021-01-20 10:56:22,900 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:22,901 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:22,901 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:22,901 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:22,901 - root -INFO - display the wrong letter
+2021-01-20 10:56:22,901 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:22,901 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:24,955 - root -INFO - user chose a letter
+2021-01-20 10:56:24,956 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:24,956 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:24,956 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:24,956 - root -INFO - transforming the list to a string
+2021-01-20 10:56:24,956 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:24,957 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:24,957 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:24,957 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:24,957 - root -INFO - display the wrong letter
+2021-01-20 10:56:24,957 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:24,957 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:26,595 - root -INFO - user chose a letter
+2021-01-20 10:56:26,596 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:26,596 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:26,596 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:26,596 - root -INFO - transforming the list to a string
+2021-01-20 10:56:26,596 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:26,596 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:26,597 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:26,597 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:26,597 - root -INFO - display the wrong letter
+2021-01-20 10:56:26,597 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:26,597 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:27,140 - root -INFO - user chose a letter
+2021-01-20 10:56:27,141 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:27,141 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:27,141 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:27,141 - root -INFO - transforming the list to a string
+2021-01-20 10:56:27,141 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:27,142 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:27,142 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:27,142 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:27,142 - root -INFO - display the wrong letter
+2021-01-20 10:56:27,142 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:27,142 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:27,851 - root -INFO - user chose a letter
+2021-01-20 10:56:27,852 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:27,852 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:27,852 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:27,852 - root -INFO - transforming the list to a string
+2021-01-20 10:56:27,852 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:27,853 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:27,853 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:27,853 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:27,853 - root -INFO - display the wrong letter
+2021-01-20 10:56:27,853 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:27,853 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:29,414 - root -INFO - user chose a letter
+2021-01-20 10:56:29,414 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:29,415 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:29,415 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:29,415 - root -INFO - transforming the list to a string
+2021-01-20 10:56:29,415 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:29,416 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:29,416 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:29,416 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:29,416 - root -INFO - display the wrong letter
+2021-01-20 10:56:29,416 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:29,416 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:35,099 - root -INFO - This an info message
+2021-01-20 10:56:35,100 - root -ERROR - this action is an error
+2021-01-20 10:56:35,100 - root -INFO - Reading file : start
+2021-01-20 10:56:35,126 - root -INFO - reading file : end
+2021-01-20 10:56:35,126 - root -INFO - Choosing random word : start
+2021-01-20 10:56:35,126 - root -INFO - Choosing random word : end
+2021-01-20 10:56:35,126 - root -INFO - Remplacing letter by "_" : start
+2021-01-20 10:56:35,126 - root -INFO - Remplacing letter by "_" : end
+2021-01-20 10:56:35,126 - root -INFO - start of game
+2021-01-20 10:56:36,801 - root -INFO - user chose a letter
+2021-01-20 10:56:36,802 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:46,065 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:46,065 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:46,066 - root -INFO - transforming the list to a string
+2021-01-20 10:56:46,066 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:46,066 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:46,066 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:46,067 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:46,067 - root -INFO - display the wrong letter
+2021-01-20 10:56:46,067 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:46,067 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:47,968 - root -INFO - user chose a letter
+2021-01-20 10:56:47,969 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:47,969 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:47,969 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:47,969 - root -INFO - transforming the list to a string
+2021-01-20 10:56:47,970 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:47,970 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:47,970 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:47,970 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:47,970 - root -INFO - display the wrong letter
+2021-01-20 10:56:47,970 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:47,971 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:49,121 - root -INFO - user chose a letter
+2021-01-20 10:56:49,121 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:49,121 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:49,121 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:49,121 - root -INFO - transforming the list to a string
+2021-01-20 10:56:49,122 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:49,122 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:49,122 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:49,122 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:49,122 - root -INFO - display the wrong letter
+2021-01-20 10:56:49,122 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:49,123 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:50,190 - root -INFO - user chose a letter
+2021-01-20 10:56:50,190 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:50,191 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:50,191 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:50,191 - root -INFO - transforming the list to a string
+2021-01-20 10:56:50,191 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:50,191 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:50,192 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:50,192 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:50,192 - root -INFO - display the wrong letter
+2021-01-20 10:56:50,192 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:50,192 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:51,220 - root -INFO - user chose a letter
+2021-01-20 10:56:51,220 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:51,220 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:51,221 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:51,221 - root -INFO - transforming the list to a string
+2021-01-20 10:56:51,221 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:51,221 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:51,221 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:51,221 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:51,222 - root -INFO - display the wrong letter
+2021-01-20 10:56:51,222 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:51,222 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:51,942 - root -INFO - user chose a letter
+2021-01-20 10:56:51,942 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:51,942 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:51,943 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:51,943 - root -INFO - transforming the list to a string
+2021-01-20 10:56:51,943 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:51,943 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:51,943 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:51,943 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:51,944 - root -INFO - display the wrong letter
+2021-01-20 10:56:51,944 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:51,944 - root -INFO - if statement : if game_step = 0, ending game : end
+2021-01-20 10:56:52,788 - root -INFO - user chose a letter
+2021-01-20 10:56:52,788 - root -INFO - forcing the user to write a letter
+2021-01-20 10:56:52,789 - root -INFO - replacing the _ by the letter if the guess is correct : start
+2021-01-20 10:56:52,789 - root -INFO - replacing the _ by the letter if the guess is correct : end
+2021-01-20 10:56:52,789 - root -INFO - transforming the list to a string
+2021-01-20 10:56:52,789 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:52,789 - root -INFO - if user guess all the right letters, no more game step, he wins : end
+2021-01-20 10:56:52,789 - root -INFO - if statement : guess is not correct, game step - 1 : start
+2021-01-20 10:56:52,790 - root -INFO - if statement : guess is not correct, game step - 1 : end
+2021-01-20 10:56:52,790 - root -INFO - display the wrong letter
+2021-01-20 10:56:52,790 - root -INFO - if statement : if game_step = 0, ending game : start
+2021-01-20 10:56:52,790 - root -INFO - if statement : if game_step = 0, ending game : end
